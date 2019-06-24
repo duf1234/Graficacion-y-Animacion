@@ -1,0 +1,10 @@
+enabled: true
+dropdown:
+  enabled: true
+fixed:
+  navigation: true
+theme:
+  logo: readme_1.png
+  favicon: favicon.png
+footer:
+  copyright: Brayan

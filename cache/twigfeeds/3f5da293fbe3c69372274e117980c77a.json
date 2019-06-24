@@ -1,0 +1,141 @@
+{
+    "title": "NYT > World",
+    "name": "NY Times",
+    "etag": "",
+    "last_modified": "",
+    "timestamp": 1561407797,
+    "last_checked": 1561407797,
+    "amount": 2,
+    "items": [
+        {
+            "rtl": [
+                "ar",
+                "fa",
+                "ur",
+                "ps",
+                "syr",
+                "dv",
+                "he",
+                "yi"
+            ],
+            "id": "4efaa3b223460171d708b499f0d7d112625573d61aea83ba89b08b2a5e8da41f",
+            "title": "Erdogan Faces Fallout After His Party\u2019s Loss in Istanbul Mayor\u2019s Race",
+            "url": "https:\/\/www.nytimes.com\/2019\/06\/24\/world\/europe\/erdogan-istanbul-turkey-mayor.html?emc=rss&partner=rss",
+            "author": "Carlotta Gall",
+            "authorUrl": "",
+            "date": {
+                "date": "2019-06-24 19:39:00.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "publishedDate": {
+                "date": "2019-06-24 19:39:00.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "updatedDate": {
+                "date": "2019-06-24 19:39:00.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "content": "<p>The scale of the defeat for his party\u2019s candidate was much larger than in the March election, which was canceled, reflecting anger among voters.<\/p>",
+            "enclosureUrl": "",
+            "enclosureType": "",
+            "language": "en-us",
+            "categories": [
+                "Elections, Mayors",
+                "Erdogan, Recep Tayyip",
+                "Imamoglu, Ekrem",
+                "Istanbul (Turkey)",
+                "Justice and Development Party (Turkey)",
+                "Yildirim, Binali (1955- )",
+                "Turkey"
+            ],
+            "xml": {
+                "title": "Erdogan Faces Fallout After His Party\u2019s Loss in Istanbul Mayor\u2019s Race",
+                "link": "https:\/\/www.nytimes.com\/2019\/06\/24\/world\/europe\/erdogan-istanbul-turkey-mayor.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/06\/24\/world\/europe\/erdogan-istanbul-turkey-mayor.html",
+                "description": "The scale of the defeat for his party\u2019s candidate was much larger than in the March election, which was canceled, reflecting anger among voters.",
+                "pubDate": "Mon, 24 Jun 2019 19:39:00 +0000",
+                "category": [
+                    "Elections, Mayors",
+                    "Erdogan, Recep Tayyip",
+                    "Imamoglu, Ekrem",
+                    "Istanbul (Turkey)",
+                    "Justice and Development Party (Turkey)",
+                    "Yildirim, Binali (1955- )",
+                    "Turkey"
+                ]
+            },
+            "namespaces": {
+                "atom": "http:\/\/www.w3.org\/2005\/Atom",
+                "dc": "http:\/\/purl.org\/dc\/elements\/1.1\/",
+                "media": "http:\/\/search.yahoo.com\/mrss\/"
+            }
+        },
+        {
+            "rtl": [
+                "ar",
+                "fa",
+                "ur",
+                "ps",
+                "syr",
+                "dv",
+                "he",
+                "yi"
+            ],
+            "id": "bfeebffebce045223c29095ae1b66613084f7091751130e9a74e4e1fd5510f48",
+            "title": "Trump\u2019s Iran Reversal Raises Allies\u2019 Doubts Over His Tactics, and U.S. Power",
+            "url": "https:\/\/www.nytimes.com\/2019\/06\/23\/world\/europe\/trump-iran-usa.html?emc=rss&partner=rss",
+            "author": "Patrick Kingsley",
+            "authorUrl": "",
+            "date": {
+                "date": "2019-06-23 20:47:22.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "publishedDate": {
+                "date": "2019-06-23 20:47:22.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "updatedDate": {
+                "date": "2019-06-23 20:47:22.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "content": "<p>The public response of Western politicians has been largely cautious, sometimes confused. But some analysts also praised Mr. Trump\u2019s restraint.<\/p>",
+            "enclosureUrl": "",
+            "enclosureType": "",
+            "language": "en-us",
+            "categories": [
+                "United States International Relations",
+                "Trump, Donald J",
+                "Iran",
+                "Middle East",
+                "Europe",
+                "United States Defense and Military Forces"
+            ],
+            "xml": {
+                "title": "Trump\u2019s Iran Reversal Raises Allies\u2019 Doubts Over His Tactics, and U.S. Power",
+                "link": "https:\/\/www.nytimes.com\/2019\/06\/23\/world\/europe\/trump-iran-usa.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/06\/23\/world\/europe\/trump-iran-usa.html",
+                "description": "The public response of Western politicians has been largely cautious, sometimes confused. But some analysts also praised Mr. Trump\u2019s restraint.",
+                "pubDate": "Sun, 23 Jun 2019 20:47:22 +0000",
+                "category": [
+                    "United States International Relations",
+                    "Trump, Donald J",
+                    "Iran",
+                    "Middle East",
+                    "Europe",
+                    "United States Defense and Military Forces"
+                ]
+            },
+            "namespaces": {
+                "atom": "http:\/\/www.w3.org\/2005\/Atom",
+                "dc": "http:\/\/purl.org\/dc\/elements\/1.1\/",
+                "media": "http:\/\/search.yahoo.com\/mrss\/"
+            }
+        }
+    ]
+}

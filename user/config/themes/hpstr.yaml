@@ -1,0 +1,6 @@
+enabled: true
+color: blue
+dropdown:
+  enabled: true
+pages:
+  display: content

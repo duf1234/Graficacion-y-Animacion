@@ -1,0 +1,15 @@
+enabled: true
+trackingId: UA-139855332-2
+position: head
+objectName: ga
+forceSsl: true
+async: true
+anonymizeIp: true
+blockedIps:
+  - thebrayanmina.com
+cookieConfig: true
+cookieName: 'Blog Web'
+cookieDomain: thebrayanmina.com
+cookieExpires: 63072000
+debugStatus: true
+debugTrace: true

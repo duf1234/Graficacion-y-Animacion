@@ -1,0 +1,13 @@
+title: 'Landed'
+descriptive_title: 'Landed by HTML5 UP'
+author:
+  name: Unknown
+  email: 'joe@example.com'
+metadata:
+    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    rights: 'All rights reserved.'
+menu:
+    - url: '#'
+      text: 'Sign Up'
+      classes: 'button primary'
+taxonomies: [category, tag, pagetype]

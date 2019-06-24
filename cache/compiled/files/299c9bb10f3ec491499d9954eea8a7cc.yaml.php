@@ -1,0 +1,36 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/var/www/html/grav/user/accounts/brayanmina.yaml',
+    'modified' => 1561073127,
+    'data' => [
+        'email' => 'brayanminavernaza19@gmail.com',
+        'fullname' => 'brayan mina vernaza',
+        'title' => 'Administrador',
+        'state' => 'enabled',
+        'access' => [
+            'admin' => [
+                'super' => 'true',
+                'login' => 'true'
+            ],
+            'site' => [
+                'login' => 'true'
+            ]
+        ],
+        'hashed_password' => '$2y$10$LOALxIXkjxDd2J.yXunRcO4p.XzASvpSKk.DVPiVC46oXp6zkVpkW',
+        'language' => 'en',
+        'login_attempts' => [
+            
+        ],
+        'twofa_secret' => 'XYIEFY3RSTPUE4JITKW4ZJOATKPBBL5C',
+        'twofa_enabled' => false,
+        'avatar' => [
+            'user/accounts/avatars/OKVZws4JxuzXGvb.jpg' => [
+                'name' => 'OKVZws4JxuzXGvb.jpg',
+                'type' => 'image/jpeg',
+                'size' => 11300,
+                'path' => 'user/accounts/avatars/OKVZws4JxuzXGvb.jpg'
+            ]
+        ]
+    ]
+];

@@ -1,0 +1,27 @@
+{
+    "config": {
+        "user": false,
+        "version": "3.3.4"
+    },
+    "data": {
+        "http:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/World.xml": {
+            "filename": "3f5da293fbe3c69372274e117980c77a.json",
+            "name": "NY Times",
+            "amount": 2,
+            "etag": "",
+            "last_modified": "",
+            "cache_time": 900,
+            "last_checked": 1561407797,
+            "last_checked_date": "2019-06-24 15:23:17"
+        },
+        "http:\/\/feeds.bbci.co.uk\/news\/uk\/rss.xml": {
+            "filename": "149d315c6838bf4ab31c9391ab25fe68.json",
+            "amount": 4,
+            "etag": "",
+            "last_modified": "",
+            "cache_time": 3600,
+            "last_checked": 1561406479,
+            "last_checked_date": "2019-06-24 15:01:19"
+        }
+    }
+}
