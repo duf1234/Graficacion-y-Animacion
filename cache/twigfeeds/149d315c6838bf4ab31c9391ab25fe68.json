@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1561406479,
-    "last_checked": 1561406479,
+    "timestamp": 1561665560,
+    "last_checked": 1561665560,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "362393f9a58d8b4eff2608d41d9cf60af23e2b1fd943810b0de8523830802668",
-            "title": "Tory leadership race: Sky set to cancel Johnson-Hunt debate",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48744724",
+            "id": "4fc0617db6660b4a5ca17ddca581a343cde592e109254b2855ee51311fd7637e",
+            "title": "Lee Pomeroy murder accused told ex 'I've done something bad'",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-surrey-48786426",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-24 13:50:31.000000",
+                "date": "2019-06-27 16:18:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-24 13:50:31.000000",
+                "date": "2019-06-27 16:18:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-24 13:50:31.000000",
+                "date": "2019-06-27 16:18:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Sky News says Tuesday&#039;s event will not go ahead unless Boris Johnson accepts its invitation.<\/p>",
+            "content": "<p>Darren Pencille told his former partner &quot;I&#039;ve done something bad&quot; after stabbing a train passenger, a jury hears.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,13 +46,11 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48744724",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48744724",
-                "pubDate": "Mon, 24 Jun 2019 13:50:31 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-surrey-48786426",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-surrey-48786426",
+                "pubDate": "Thu, 27 Jun 2019 16:18:27 GMT"
             },
-            "namespaces": {
-                "media": "http:\/\/search.yahoo.com\/mrss\/"
-            }
+            "namespaces": []
         },
         {
             "rtl": [
@@ -65,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "733c3ae614fd61b37d2da9ed4fea135390ce761477cf37e4a7afd6a4578b4539",
-            "title": "Brexit: 'Dozen' Tories could back no confidence vote, says Ellwood",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48742881",
+            "id": "e36c7c94c7d99bfb5fbae568be6f86c7b466cdf367faf72f5f3eb7cc5fbf361b",
+            "title": "Vauxhall Astra: Ellesmere Port manufacture 'depends on Brexit'",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-merseyside-48790657",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-24 16:36:03.000000",
+                "date": "2019-06-27 16:27:44.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-24 16:36:03.000000",
+                "date": "2019-06-27 16:27:44.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-24 16:36:03.000000",
+                "date": "2019-06-27 16:27:44.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Minister Tobias Ellwood says opponents of a no-deal Brexit &quot;have the numbers&quot; to threaten the government.<\/p>",
+            "content": "<p>The new Astra will be built at its Ellesmere Port plant if a satisfactory deal is reached, the firm says.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -93,13 +91,11 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48742881",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48742881",
-                "pubDate": "Mon, 24 Jun 2019 16:36:03 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-merseyside-48790657",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-merseyside-48790657",
+                "pubDate": "Thu, 27 Jun 2019 16:27:44 GMT"
             },
-            "namespaces": {
-                "media": "http:\/\/search.yahoo.com\/mrss\/"
-            }
+            "namespaces": []
         },
         {
             "rtl": [
@@ -112,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "0c784801b6d95b61a7b49b254c95791c8dbdf5160717ef1f0a0c5f11525ef1f6",
-            "title": "Tube pusher Paul Crossley jailed for life",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48743979",
+            "id": "7d3c7b1d69e43188933855402e274fc5f09a87113ff6b5cd600f32408e4af341",
+            "title": "Harry and Meghan to visit southern Africa",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48792250",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-24 16:07:56.000000",
+                "date": "2019-06-27 16:15:40.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-24 16:07:56.000000",
+                "date": "2019-06-27 16:15:40.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-24 16:07:56.000000",
+                "date": "2019-06-27 16:15:40.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>An Old Bailey judge describes Paul Crossley as a &quot;grave and enduring risk to the public&quot;.<\/p>",
+            "content": "<p>The royal couple said they were &quot;excited&quot; to share news of their &quot;first official tour as a family&quot;.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -140,13 +136,11 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48743979",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48743979",
-                "pubDate": "Mon, 24 Jun 2019 16:07:56 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48792250",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48792250",
+                "pubDate": "Thu, 27 Jun 2019 16:15:40 GMT"
             },
-            "namespaces": {
-                "media": "http:\/\/search.yahoo.com\/mrss\/"
-            }
+            "namespaces": []
         },
         {
             "rtl": [
@@ -159,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "3edf96aa2e0b3032fe69099ffd5688dcf1542a020fac5cc924afe3f4bc97568d",
-            "title": "Eurostar defends alcohol limits on trains",
-            "url": "https:\/\/www.bbc.co.uk\/news\/business-48742530",
+            "id": "4803db15cd079a367f4ed6c7a26b759ec163e695d8d9154dcef38d148a5f2b0f",
+            "title": "Shepherd's Bush stabbing: Teen killed after taking cover in shop",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48781539",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-24 15:46:34.000000",
+                "date": "2019-06-27 16:21:48.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-24 15:46:34.000000",
+                "date": "2019-06-27 16:21:48.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-24 15:46:34.000000",
+                "date": "2019-06-27 16:21:48.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Passengers have complained about the restrictions of one bottle of wine or four cans of beer.<\/p>",
+            "content": "<p>The victim, believed to be 18, died from a stab injury in Shepherd&#039;s Bush on Wednesday night.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -187,13 +181,11 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/business-48742530",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/business-48742530",
-                "pubDate": "Mon, 24 Jun 2019 15:46:34 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48781539",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48781539",
+                "pubDate": "Thu, 27 Jun 2019 16:21:48 GMT"
             },
-            "namespaces": {
-                "media": "http:\/\/search.yahoo.com\/mrss\/"
-            }
+            "namespaces": []
         }
     ]
 }

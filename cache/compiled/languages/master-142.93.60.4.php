@@ -1,165 +1,165 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1560753501,
-    'checksum' => 'e0ccac631beb3e85c76c45e4b147ffc5',
+    'timestamp' => 1561601667,
+    'checksum' => '3da04c7b550f2b3f47998739b4686f91',
     'files' => [
         'system/languages' => [
             'ar' => [
                 'file' => 'system/languages/ar.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'bg' => [
                 'file' => 'system/languages/bg.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'ca' => [
                 'file' => 'system/languages/ca.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'cs' => [
                 'file' => 'system/languages/cs.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'da' => [
                 'file' => 'system/languages/da.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'de' => [
                 'file' => 'system/languages/de.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'el' => [
                 'file' => 'system/languages/el.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'en' => [
                 'file' => 'system/languages/en.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'es' => [
                 'file' => 'system/languages/es.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'et' => [
                 'file' => 'system/languages/et.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'eu' => [
                 'file' => 'system/languages/eu.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'fa' => [
                 'file' => 'system/languages/fa.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'fi' => [
                 'file' => 'system/languages/fi.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'fr' => [
                 'file' => 'system/languages/fr.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'he' => [
                 'file' => 'system/languages/he.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'hr' => [
                 'file' => 'system/languages/hr.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'hu' => [
                 'file' => 'system/languages/hu.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'id' => [
                 'file' => 'system/languages/id.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'is' => [
                 'file' => 'system/languages/is.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'it' => [
                 'file' => 'system/languages/it.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'ja' => [
                 'file' => 'system/languages/ja.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'ko' => [
                 'file' => 'system/languages/ko.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'lt' => [
                 'file' => 'system/languages/lt.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'nb' => [
                 'file' => 'system/languages/nb.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'nl' => [
                 'file' => 'system/languages/nl.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'no' => [
                 'file' => 'system/languages/no.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'pl' => [
                 'file' => 'system/languages/pl.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'pt' => [
                 'file' => 'system/languages/pt.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'ro' => [
                 'file' => 'system/languages/ro.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'ru' => [
                 'file' => 'system/languages/ru.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'sk' => [
                 'file' => 'system/languages/sk.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'sl' => [
                 'file' => 'system/languages/sl.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'sv' => [
                 'file' => 'system/languages/sv.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'th' => [
                 'file' => 'system/languages/th.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'tr' => [
                 'file' => 'system/languages/tr.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'uk' => [
                 'file' => 'system/languages/uk.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'vi' => [
                 'file' => 'system/languages/vi.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'zh' => [
                 'file' => 'system/languages/zh.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'zh-tw' => [
                 'file' => 'system/languages/zh-tw.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ]
         ],
         'user/plugins' => [
@@ -190,6 +190,10 @@ return [
             'plugins/bootstrapper' => [
                 'file' => 'user/plugins/bootstrapper/languages.yaml',
                 'modified' => 1560356228
+            ],
+            'plugins/readingtime' => [
+                'file' => 'user/plugins/readingtime/languages.yaml',
+                'modified' => 1561565100
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/languages.yaml',
@@ -3394,6 +3398,12 @@ Máte na svém účtu aktivováno **dvoufaktorové ověřování**. Pro dokonče
                 'ERROR' => 'Chyba',
                 'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
             ],
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'sekunda',
+                'SECONDS' => 'sekundy',
+                'MINUTE' => 'minuta',
+                'MINUTES' => 'minuty'
+            ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formulář nebyl ověřen. Chybí jedno nebo více povinných polí.',
                 'NONCE_NOT_VALIDATED' => 'Jejda, došlo k problému, zkontrolujte vstupní stránku a znovu odešlete formulář.',
@@ -5605,6 +5615,12 @@ Sie haben **2FA** für dieses Konto aktiviert. Bitte benutzen Sie Ihre **2FA** A
                 'LOAD_THEME_CSS' => 'Theme CSS laden (v3.3.7)',
                 'LOAD_POPPER_JS' => 'Popper JS laden (v4.1.1)',
                 'LOAD_CORE_JS' => 'Core JS laden'
+            ],
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'Sekunde',
+                'SECONDS' => 'Sekunden',
+                'MINUTE' => 'Minute',
+                'MINUTES' => 'Minuten'
             ],
             'PLUGIN_EMAIL' => [
                 'EMAIL_NOT_CONFIGURED' => 'E-Mail ist nicht konfiguriert',
@@ -8008,6 +8024,12 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'LOAD_POPPER_JS' => 'Load Popper JS (v4.1.1)',
                 'LOAD_CORE_JS' => 'Load Core JS'
             ],
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'second',
+                'SECONDS' => 'seconds',
+                'MINUTE' => 'minute',
+                'MINUTES' => 'minutes'
+            ],
             'PLUGIN_EMAIL' => [
                 'MAIL_ENGINE' => 'Mail Engine',
                 'MAIL_ENGINE_DISABLED' => 'Disabled',
@@ -9178,6 +9200,12 @@ Tienes **2FA** habilitado en esta cuenta. Por favor usa tu aplicación **2FA** p
                 'PAGE_RESTRICTED' => 'Acceso restringido, acceda con sus credenciales...',
                 'DYNAMIC_VISIBILITY' => 'Visibilidad de páginas dinámicas',
                 'DYNAMIC_VISIBILITY_HELP' => 'Permite el procesamiento de la visibilidad de páginas basada en reglas de acceso si login.visibility_requires_access es true en un página'
+            ],
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'segundo',
+                'SECONDS' => 'segundos',
+                'MINUTE' => 'minuto',
+                'MINUTES' => 'minutos'
             ],
             'PLUGIN_EMAIL' => [
                 'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Por favor configura una dirección de \'remitente\' en la configuración del Plugin de Email o en el formulario',
@@ -12657,6 +12685,12 @@ L\'**authentification à deux facteurs** est activée sur ce compte. Veuillez ut
                 'LOAD_THEME_CSS' => 'Charger les CSS du thème (v3.3.7)',
                 'LOAD_POPPER_JS' => 'Charger les JS du Popper (v4.1.1)',
                 'LOAD_CORE_JS' => 'Charger les JS du core'
+            ],
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'seconde',
+                'SECONDS' => 'secondes',
+                'MINUTE' => 'minute',
+                'MINUTES' => 'minutes'
             ],
             'PLUGIN_EMAIL' => [
                 'EMAIL_NOT_CONFIGURED' => 'L’e-mail n’est pas configuré',
@@ -16553,6 +16587,12 @@ La **2FA** è abilitata per questo account. Si prega di utilizzare la vostra app
             'PLUGIN_ERROR' => [
                 'ERROR' => 'Errore',
                 'ERROR_MESSAGE' => 'Ooops. A quanto pare, questa pagina non esiste.'
+            ],
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'secondo',
+                'SECONDS' => 'secondi',
+                'MINUTE' => 'minuto',
+                'MINUTES' => 'minuti'
             ],
             'PLUGIN_EMAIL' => [
                 'PLEASE_CONFIGURE_A_TO_ADDRESS' => 'Per favore, configura l\'indirizzo di destinazione (\'to\') nella configurazione del Plugin Email, oppure direttamente nella form.',
@@ -30605,6 +30645,14 @@ title: %1$s
                     5 => '星期六',
                     6 => '星期日'
                 ]
+            ]
+        ],
+        'pt-BR' => [
+            'PLUGIN_READINGTIME' => [
+                'SECOND' => 'segundo',
+                'SECONDS' => 'segundos',
+                'MINUTE' => 'minuto',
+                'MINUTES' => 'minutos'
             ]
         ],
         'is' => [

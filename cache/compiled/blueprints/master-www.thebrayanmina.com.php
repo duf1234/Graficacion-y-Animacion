@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1561276004,
-    'checksum' => '209ad1e6bfb2ceb75f79fbad98d94577',
+    'timestamp' => 1561591214,
+    'checksum' => 'ca4d5af440579c41329a4ed4622afc04',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
@@ -13,31 +13,31 @@ return [
         'system/blueprints/config' => [
             'backups' => [
                 'file' => 'system/blueprints/config/backups.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'media' => [
                 'file' => 'system/blueprints/config/media.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'scheduler' => [
                 'file' => 'system/blueprints/config/scheduler.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'security' => [
                 'file' => 'system/blueprints/config/security.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'site' => [
                 'file' => 'system/blueprints/config/site.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'streams' => [
                 'file' => 'system/blueprints/config/streams.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ],
             'system' => [
                 'file' => 'system/blueprints/config/system.yaml',
-                'modified' => 1560742882
+                'modified' => 1561582072
             ]
         ],
         'user/plugins' => [
@@ -104,6 +104,10 @@ return [
             'plugins/bootstrapper' => [
                 'file' => 'user/plugins/bootstrapper/blueprints.yaml',
                 'modified' => 1560356228
+            ],
+            'plugins/readingtime' => [
+                'file' => 'user/plugins/readingtime/blueprints.yaml',
+                'modified' => 1561565100
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
@@ -4306,6 +4310,60 @@ return [
                 'name' => 'plugins.bootstrapper.load_core_js',
                 'validation' => 'strict'
             ],
+            'plugins.readingtime' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.readingtime.enabled' => [
+                'type' => 'toggle',
+                'label' => 'Plugin status',
+                'highlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'Enabled',
+                    0 => 'Disabled'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.readingtime.enabled',
+                'validation' => 'strict'
+            ],
+            'plugins.readingtime.words_per_minute' => [
+                'type' => 'text',
+                'size' => 'x-small',
+                'append' => 'wpm',
+                'label' => 'Words-per-minute',
+                'validate' => [
+                    'type' => 'int',
+                    'min' => 1,
+                    'max' => 1000
+                ],
+                'name' => 'plugins.readingtime.words_per_minute',
+                'validation' => 'strict'
+            ],
+            'plugins.readingtime.format' => [
+                'type' => 'text',
+                'label' => 'Format',
+                'size' => 'large',
+                'name' => 'plugins.readingtime.format',
+                'validation' => 'strict'
+            ],
+            'plugins.readingtime.round' => [
+                'type' => 'select',
+                'size' => 'small',
+                'classes' => 'fancy',
+                'label' => 'Round to nearest...',
+                'options' => [
+                    'seconds' => 'second',
+                    'minutes' => 'minute'
+                ],
+                'name' => 'plugins.readingtime.round',
+                'validation' => 'strict'
+            ],
             'plugins.email' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -7508,6 +7566,12 @@ return [
                     'load_theme_css' => 'plugins.bootstrapper.load_theme_css',
                     'load_popper_js' => 'plugins.bootstrapper.load_popper_js',
                     'load_core_js' => 'plugins.bootstrapper.load_core_js'
+                ],
+                'readingtime' => [
+                    'enabled' => 'plugins.readingtime.enabled',
+                    'words_per_minute' => 'plugins.readingtime.words_per_minute',
+                    'format' => 'plugins.readingtime.format',
+                    'round' => 'plugins.readingtime.round'
                 ],
                 'email' => [
                     'enabled' => 'plugins.email.enabled',

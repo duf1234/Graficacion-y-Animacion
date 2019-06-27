@@ -1,10 +1,10 @@
 {
-    "title": "NYT > World",
+    "title": "NYT > World News",
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1561407797,
-    "last_checked": 1561407797,
+    "timestamp": 1561668318,
+    "last_checked": 1561668318,
     "amount": 2,
     "items": [
         {
@@ -18,53 +18,53 @@
                 "he",
                 "yi"
             ],
-            "id": "4efaa3b223460171d708b499f0d7d112625573d61aea83ba89b08b2a5e8da41f",
-            "title": "Erdogan Faces Fallout After His Party\u2019s Loss in Istanbul Mayor\u2019s Race",
-            "url": "https:\/\/www.nytimes.com\/2019\/06\/24\/world\/europe\/erdogan-istanbul-turkey-mayor.html?emc=rss&partner=rss",
-            "author": "Carlotta Gall",
+            "id": "99fb0e7a30db6e72d65d8d4d3f00cd290eea05157902d30ea25ded6247ab855e",
+            "title": "At G-20, Trump Seeks Fresh Start With Putin After End of Mueller Inquiry",
+            "url": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/asia\/putin-trump.html?emc=rss&partner=rss",
+            "author": "Peter Baker and Neil MacFarquhar",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-24 19:39:00.000000",
+                "date": "2019-06-27 13:19:36.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-06-24 19:39:00.000000",
+                "date": "2019-06-27 13:19:36.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-06-24 19:39:00.000000",
+                "date": "2019-06-27 13:19:36.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The scale of the defeat for his party\u2019s candidate was much larger than in the March election, which was canceled, reflecting anger among voters.<\/p>",
+            "content": "<p>President Trump\u2019s advisers hope to use the session to pivot the relationship toward arms control, a paradoxical priority given the administration\u2019s recent moves to dismantle treaties.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Elections, Mayors",
-                "Erdogan, Recep Tayyip",
-                "Imamoglu, Ekrem",
-                "Istanbul (Turkey)",
-                "Justice and Development Party (Turkey)",
-                "Yildirim, Binali (1955- )",
-                "Turkey"
+                "Putin, Vladimir V",
+                "Trump, Donald J",
+                "Arms Control and Limitation and Disarmament",
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                "Strategic Arms Reduction Treaty",
+                "United States International Relations",
+                "Osaka (Japan)"
             ],
             "xml": {
-                "title": "Erdogan Faces Fallout After His Party\u2019s Loss in Istanbul Mayor\u2019s Race",
-                "link": "https:\/\/www.nytimes.com\/2019\/06\/24\/world\/europe\/erdogan-istanbul-turkey-mayor.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/06\/24\/world\/europe\/erdogan-istanbul-turkey-mayor.html",
-                "description": "The scale of the defeat for his party\u2019s candidate was much larger than in the March election, which was canceled, reflecting anger among voters.",
-                "pubDate": "Mon, 24 Jun 2019 19:39:00 +0000",
+                "title": "At G-20, Trump Seeks Fresh Start With Putin After End of Mueller Inquiry",
+                "link": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/asia\/putin-trump.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/asia\/putin-trump.html",
+                "description": "President Trump\u2019s advisers hope to use the session to pivot the relationship toward arms control, a paradoxical priority given the administration\u2019s recent moves to dismantle treaties.",
+                "pubDate": "Thu, 27 Jun 2019 13:19:36 +0000",
                 "category": [
-                    "Elections, Mayors",
-                    "Erdogan, Recep Tayyip",
-                    "Imamoglu, Ekrem",
-                    "Istanbul (Turkey)",
-                    "Justice and Development Party (Turkey)",
-                    "Yildirim, Binali (1955- )",
-                    "Turkey"
+                    "Putin, Vladimir V",
+                    "Trump, Donald J",
+                    "Arms Control and Limitation and Disarmament",
+                    "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                    "Strategic Arms Reduction Treaty",
+                    "United States International Relations",
+                    "Osaka (Japan)"
                 ]
             },
             "namespaces": {
@@ -84,51 +84,43 @@
                 "he",
                 "yi"
             ],
-            "id": "bfeebffebce045223c29095ae1b66613084f7091751130e9a74e4e1fd5510f48",
-            "title": "Trump\u2019s Iran Reversal Raises Allies\u2019 Doubts Over His Tactics, and U.S. Power",
-            "url": "https:\/\/www.nytimes.com\/2019\/06\/23\/world\/europe\/trump-iran-usa.html?emc=rss&partner=rss",
-            "author": "Patrick Kingsley",
+            "id": "067584f4340b6623abb80e2186db208130a57344dffb4cffdc6b316c2be4124b",
+            "title": "Angela Merkel Is Seen Shaking Again, but Spokesman Insists She\u2019s Fine",
+            "url": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/europe\/angela-merkel-shaking.html?emc=rss&partner=rss",
+            "author": "Melissa Eddy",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-23 20:47:22.000000",
+                "date": "2019-06-27 17:49:34.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-06-23 20:47:22.000000",
+                "date": "2019-06-27 17:49:34.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-06-23 20:47:22.000000",
+                "date": "2019-06-27 17:49:34.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The public response of Western politicians has been largely cautious, sometimes confused. But some analysts also praised Mr. Trump\u2019s restraint.<\/p>",
+            "content": "<p>The German chancellor began trembling at a ceremony in Berlin on Thursday, 10 days after she blamed high temperatures for another shaking episode.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "United States International Relations",
-                "Trump, Donald J",
-                "Iran",
-                "Middle East",
-                "Europe",
-                "United States Defense and Military Forces"
+                "Germany",
+                "Merkel, Angela"
             ],
             "xml": {
-                "title": "Trump\u2019s Iran Reversal Raises Allies\u2019 Doubts Over His Tactics, and U.S. Power",
-                "link": "https:\/\/www.nytimes.com\/2019\/06\/23\/world\/europe\/trump-iran-usa.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/06\/23\/world\/europe\/trump-iran-usa.html",
-                "description": "The public response of Western politicians has been largely cautious, sometimes confused. But some analysts also praised Mr. Trump\u2019s restraint.",
-                "pubDate": "Sun, 23 Jun 2019 20:47:22 +0000",
+                "title": "Angela Merkel Is Seen Shaking Again, but Spokesman Insists She\u2019s Fine",
+                "link": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/europe\/angela-merkel-shaking.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/europe\/angela-merkel-shaking.html",
+                "description": "The German chancellor began trembling at a ceremony in Berlin on Thursday, 10 days after she blamed high temperatures for another shaking episode.",
+                "pubDate": "Thu, 27 Jun 2019 17:49:34 +0000",
                 "category": [
-                    "United States International Relations",
-                    "Trump, Donald J",
-                    "Iran",
-                    "Middle East",
-                    "Europe",
-                    "United States Defense and Military Forces"
+                    "Germany",
+                    "Merkel, Angela"
                 ]
             },
             "namespaces": {

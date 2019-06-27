@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/system/config/site.yaml',
-    'modified' => 1560742882,
+    'modified' => 1561582072,
     'data' => [
         'title' => 'Grav',
         'default_lang' => 'en',
