@@ -1,0 +1,19 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+
+<div class="row main-row">
+
+	<div class="4u 12u(mobile)">
+		{% include 'partials/sidebar1.html.twig' %}
+	</div>
+
+	<div class="8u 12u(mobile) important(mobile)">
+		<section class="right-content">
+			{{ page.content }}
+		</section>
+	</div>
+
+</div>
+
+{% endblock %}

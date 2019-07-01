@@ -2,7 +2,6 @@ enabled: true
 dropdown:
   enabled: true
 default_lang: es
-logo: grav/user/plugins/admin/themes/grav/images/favicon.jpg
 social:
   display: false
   links:

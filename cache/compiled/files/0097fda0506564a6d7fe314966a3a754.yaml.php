@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/shortcode-core/blueprints.yaml',
-    'modified' => 1560356511,
+    'modified' => 1561869439,
     'data' => [
         'name' => 'Shortcode Core',
-        'version' => '4.1.1',
+        'version' => '4.1.2',
         'description' => 'This plugin provides the core functionality for shortcode plugins',
         'icon' => 'code',
         'author' => [

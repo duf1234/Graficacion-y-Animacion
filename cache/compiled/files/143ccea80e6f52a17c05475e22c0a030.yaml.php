@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://bootstrap4-open-matter/bootstrap4-open-matter.yaml',
-    'modified' => 1560742017,
+    'modified' => 1561869444,
     'data' => [
         'navbar_style' => 'navbar-dark',
         'navbar_position' => 'top',

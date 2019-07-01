@@ -12,7 +12,7 @@ streams:
         '': [user/themes/bootstrap4-open-matter, user/themes/bootstrap4]
 chromeless:
   enabled: true
-display_of_git_sync_repo_link: menu
+display_of_git_sync_repo_link: footer
 type_of_git_sync_repo_link: view
 custom_git_sync_repo_link_icon: Brayan
 custom_git_sync_repo_link_text: 'ver pagina de Git'
@@ -26,6 +26,10 @@ cc_license:
   icon: false
 displaycustommenus:
   enabled: true
-theme_stylesheet: cerulean
+theme_stylesheet: litera
 navbar_bg: bg-success
 navbar_bg_color: '#1cbdb8'
+custommenu:
+  -
+    text: brayanminavernaza19@gmail.com
+    target: _self

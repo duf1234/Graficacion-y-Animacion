@@ -1,0 +1,9 @@
+<section>
+	{% set stories = page.find('/components/stories') %}
+	{{ stories.content }}
+	<ul class="big-image-list">
+		{% for module in stories.collection %}
+			{{ module.content }}
+		{% endfor %}
+	</ul>
+</section>

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://presentation/presentation.yaml',
-    'modified' => 1560742011,
+    'modified' => 1561869438,
     'data' => [
         'enabled' => true,
         'theme' => 'moon',

@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1561665560,
-    "last_checked": 1561665560,
+    "timestamp": 1561998686,
+    "last_checked": 1561998686,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "4fc0617db6660b4a5ca17ddca581a343cde592e109254b2855ee51311fd7637e",
-            "title": "Lee Pomeroy murder accused told ex 'I've done something bad'",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-surrey-48786426",
+            "id": "133ea14910f240cb40ec056957c26faa2b2b053ab32a65c9c0cb95160ef54fbb",
+            "title": "Tory leadership: Jeremy Hunt sets 30 September 'no-deal deadline'",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48819260",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-27 16:18:27.000000",
+                "date": "2019-07-01 13:48:47.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-27 16:18:27.000000",
+                "date": "2019-07-01 13:48:47.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-27 16:18:27.000000",
+                "date": "2019-07-01 13:48:47.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Darren Pencille told his former partner &quot;I&#039;ve done something bad&quot; after stabbing a train passenger, a jury hears.<\/p>",
+            "content": "<p>The leadership hopeful says he would give the EU three weeks to show willing before abandoning talks.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-surrey-48786426",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-surrey-48786426",
-                "pubDate": "Thu, 27 Jun 2019 16:18:27 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48819260",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48819260",
+                "pubDate": "Mon, 01 Jul 2019 13:48:47 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "e36c7c94c7d99bfb5fbae568be6f86c7b466cdf367faf72f5f3eb7cc5fbf361b",
-            "title": "Vauxhall Astra: Ellesmere Port manufacture 'depends on Brexit'",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-merseyside-48790657",
+            "id": "59bcd00bd7ff3d1ee5fd0acc0f8084e9a9802aa47198ff131bddcf9f70ced2e3",
+            "title": "Glastonbury Festival: Security guard found dead in tent",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-somerset-48829370",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-27 16:27:44.000000",
+                "date": "2019-07-01 13:47:01.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-27 16:27:44.000000",
+                "date": "2019-07-01 13:47:01.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-27 16:27:44.000000",
+                "date": "2019-07-01 13:47:01.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The new Astra will be built at its Ellesmere Port plant if a satisfactory deal is reached, the firm says.<\/p>",
+            "content": "<p>The 60-year-old G4S security officer was found dead in his tent on Sunday afternoon.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-merseyside-48790657",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-merseyside-48790657",
-                "pubDate": "Thu, 27 Jun 2019 16:27:44 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-somerset-48829370",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-somerset-48829370",
+                "pubDate": "Mon, 01 Jul 2019 13:47:01 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "7d3c7b1d69e43188933855402e274fc5f09a87113ff6b5cd600f32408e4af341",
-            "title": "Harry and Meghan to visit southern Africa",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48792250",
+            "id": "e7e1040c97cac46ce62c050f38cb2a84d9fb0dbd85d9086be48a5a2fc91b9d1d",
+            "title": "TV star's call for online homophobia to be hate crime debated by MPs",
+            "url": "https:\/\/www.bbc.co.uk\/news\/technology-48825769",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-27 16:15:40.000000",
+                "date": "2019-07-01 16:17:46.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-27 16:15:40.000000",
+                "date": "2019-07-01 16:17:46.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-27 16:15:40.000000",
+                "date": "2019-07-01 16:17:46.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The royal couple said they were &quot;excited&quot; to share news of their &quot;first official tour as a family&quot;.<\/p>",
+            "content": "<p>The Only Way Is Essex&#039;s Bobby Norris says online homophobia should be a specific criminal offence.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48792250",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48792250",
-                "pubDate": "Thu, 27 Jun 2019 16:15:40 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/technology-48825769",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/technology-48825769",
+                "pubDate": "Mon, 01 Jul 2019 16:17:46 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "4803db15cd079a367f4ed6c7a26b759ec163e695d8d9154dcef38d148a5f2b0f",
-            "title": "Shepherd's Bush stabbing: Teen killed after taking cover in shop",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48781539",
+            "id": "9f117a0b941cf2f3f38a494b586050b76b75625eadc38c038af5bad74d8ec1a1",
+            "title": "Cliff Richard and Paul Gambaccini launch sex offence anonymity campaign",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48822950",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-27 16:21:48.000000",
+                "date": "2019-07-01 15:58:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-06-27 16:21:48.000000",
+                "date": "2019-07-01 15:58:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-06-27 16:21:48.000000",
+                "date": "2019-07-01 15:58:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The victim, believed to be 18, died from a stab injury in Shepherd&#039;s Bush on Wednesday night.<\/p>",
+            "content": "<p>The singer calls for legal changes, saying being named as a suspect left his reputation in tatters.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48781539",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48781539",
-                "pubDate": "Thu, 27 Jun 2019 16:21:48 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48822950",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48822950",
+                "pubDate": "Mon, 01 Jul 2019 15:58:27 GMT"
             },
             "namespaces": []
         }

@@ -1,5 +1,5 @@
 name: Hydrogen
-version: "5.4.28"
+version: "5.4.29"
 description: "Default Gantry 5 theme."
 icon: gantry
 author:
@@ -11,6 +11,9 @@ readme: https://github.com/gantry/gantry5/blob/master/README.md
 keywords: gantry, gantry5, theme
 bugs: https://github.com/gantry/gantry5/issues
 license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.5.10' }
 
 form:
   validation: loose

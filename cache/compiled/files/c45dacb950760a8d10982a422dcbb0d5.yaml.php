@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/system.yaml',
-    'modified' => 1561586887,
+    'modified' => 1561932040,
     'data' => [
         'absolute_urls' => false,
         'param_sep' => ':',
@@ -29,7 +29,7 @@ return [
         'pages' => [
             'theme' => 'antimatter',
             'order' => [
-                'by' => 'default',
+                'by' => 'date',
                 'dir' => 'asc'
             ],
             'list' => [
@@ -44,7 +44,7 @@ return [
                 'markdown' => true,
                 'twig' => false
             ],
-            'twig_first' => false,
+            'twig_first' => true,
             'never_cache_twig' => true,
             'events' => [
                 'page' => true,
@@ -73,8 +73,8 @@ return [
             'last_modified' => false,
             'etag' => false,
             'vary_accept_encoding' => false,
-            'redirect_default_route' => false,
-            'redirect_default_code' => '302',
+            'redirect_default_route' => true,
+            'redirect_default_code' => '303',
             'redirect_trailing_slash' => true,
             'ignore_files' => [
                 0 => '.DS_Store'
@@ -86,7 +86,7 @@ return [
             'ignore_hidden' => true,
             'url_taxonomy_filters' => true,
             'frontmatter' => [
-                'process_twig' => false,
+                'process_twig' => true,
                 'ignore_fields' => [
                     0 => 'form',
                     1 => 'forms'

@@ -11,8 +11,8 @@
             "etag": "",
             "last_modified": "",
             "cache_time": 900,
-            "last_checked": 1561668318,
-            "last_checked_date": "2019-06-27 15:45:18"
+            "last_checked": 1562000719,
+            "last_checked_date": "2019-07-01 12:05:19"
         },
         "http:\/\/feeds.bbci.co.uk\/news\/uk\/rss.xml": {
             "filename": "149d315c6838bf4ab31c9391ab25fe68.json",
@@ -20,8 +20,8 @@
             "etag": "",
             "last_modified": "",
             "cache_time": 3600,
-            "last_checked": 1561665560,
-            "last_checked_date": "2019-06-27 14:59:20"
+            "last_checked": 1561998686,
+            "last_checked_date": "2019-07-01 11:31:26"
         }
     }
 }

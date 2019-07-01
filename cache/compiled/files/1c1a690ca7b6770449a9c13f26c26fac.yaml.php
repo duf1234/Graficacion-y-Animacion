@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/bootstrap4-open-matter/blueprints.yaml',
-    'modified' => 1560742017,
+    'modified' => 1561869444,
     'data' => [
         'name' => 'Bootstrap4 Open Matter',
-        'version' => '2.5.1',
+        'version' => '2.5.3',
         'description' => 'A custom version of the Bootstrap4 theme for open blogs, course hubs and more. Includes Git Sync and \'chromeless\' content embedding.',
         'icon' => 'bold',
         'author' => [

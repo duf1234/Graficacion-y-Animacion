@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/presentation/blueprints.yaml',
-    'modified' => 1560742011,
+    'modified' => 1561869438,
     'data' => [
         'name' => 'Presentation',
-        'version' => '2.0.1',
+        'version' => '2.0.2',
         'description' => 'Responsive navigational slideshows with Reveal.js',
         'icon' => 'arrows-alt',
         'author' => [

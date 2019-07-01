@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1561668318,
-    "last_checked": 1561668318,
+    "timestamp": 1562000719,
+    "last_checked": 1562000719,
     "amount": 2,
     "items": [
         {
@@ -18,53 +18,49 @@
                 "he",
                 "yi"
             ],
-            "id": "99fb0e7a30db6e72d65d8d4d3f00cd290eea05157902d30ea25ded6247ab855e",
-            "title": "At G-20, Trump Seeks Fresh Start With Putin After End of Mueller Inquiry",
-            "url": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/asia\/putin-trump.html?emc=rss&partner=rss",
-            "author": "Peter Baker and Neil MacFarquhar",
+            "id": "2933ff5a1d6321ae172c8dce399fa7748c933d3d70bb081d5fab38fa97eedb3b",
+            "title": "Hong Kong Protest Live Updates: Police Rush Protesters Outside Legislative Building",
+            "url": "https:\/\/www.nytimes.com\/2019\/06\/30\/world\/asia\/hong-kong-protest-live-updates.html?emc=rss&partner=rss",
+            "author": "The New York Times",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-27 13:19:36.000000",
+                "date": "2019-07-01 16:51:46.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-06-27 13:19:36.000000",
+                "date": "2019-07-01 16:51:46.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-06-27 13:19:36.000000",
+                "date": "2019-07-01 16:51:46.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>President Trump\u2019s advisers hope to use the session to pivot the relationship toward arms control, a paradoxical priority given the administration\u2019s recent moves to dismantle treaties.<\/p>",
+            "content": "<p>Protesters had mostly cleared out of the Legislative Council building after 3 hours of occupation. Then a cordon of riot police charged to disperse the crowd outside.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Putin, Vladimir V",
-                "Trump, Donald J",
-                "Arms Control and Limitation and Disarmament",
-                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
-                "Strategic Arms Reduction Treaty",
-                "United States International Relations",
-                "Osaka (Japan)"
+                "Demonstrations, Protests and Riots",
+                "Politics and Government",
+                "Lam, Carrie (1957- )",
+                "Hong Kong",
+                "China"
             ],
             "xml": {
-                "title": "At G-20, Trump Seeks Fresh Start With Putin After End of Mueller Inquiry",
-                "link": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/asia\/putin-trump.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/asia\/putin-trump.html",
-                "description": "President Trump\u2019s advisers hope to use the session to pivot the relationship toward arms control, a paradoxical priority given the administration\u2019s recent moves to dismantle treaties.",
-                "pubDate": "Thu, 27 Jun 2019 13:19:36 +0000",
+                "title": "Hong Kong Protest Live Updates: Police Rush Protesters Outside Legislative Building",
+                "link": "https:\/\/www.nytimes.com\/2019\/06\/30\/world\/asia\/hong-kong-protest-live-updates.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/06\/30\/world\/asia\/hong-kong-protest-live-updates.html",
+                "description": "Protesters had mostly cleared out of the Legislative Council building after 3 hours of occupation. Then a cordon of riot police charged to disperse the crowd outside.",
+                "pubDate": "Mon, 01 Jul 2019 16:51:46 +0000",
                 "category": [
-                    "Putin, Vladimir V",
-                    "Trump, Donald J",
-                    "Arms Control and Limitation and Disarmament",
-                    "Russian Interference in 2016 US Elections and Ties to Trump Associates",
-                    "Strategic Arms Reduction Treaty",
-                    "United States International Relations",
-                    "Osaka (Japan)"
+                    "Demonstrations, Protests and Riots",
+                    "Politics and Government",
+                    "Lam, Carrie (1957- )",
+                    "Hong Kong",
+                    "China"
                 ]
             },
             "namespaces": {
@@ -84,43 +80,63 @@
                 "he",
                 "yi"
             ],
-            "id": "067584f4340b6623abb80e2186db208130a57344dffb4cffdc6b316c2be4124b",
-            "title": "Angela Merkel Is Seen Shaking Again, but Spokesman Insists She\u2019s Fine",
-            "url": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/europe\/angela-merkel-shaking.html?emc=rss&partner=rss",
-            "author": "Melissa Eddy",
+            "id": "90994fc8995dfecd4ebef78169eaf7dca7bcd6c805c4be7ce51da08a891d79b1",
+            "title": "Iran Breaches Critical Limit on Nuclear Fuel Under 2015 Deal",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/01\/us\/politics\/iran-nuclear-limit-compliance.html?emc=rss&partner=rss",
+            "author": "David E. Sanger",
             "authorUrl": "",
             "date": {
-                "date": "2019-06-27 17:49:34.000000",
+                "date": "2019-07-01 15:37:24.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-06-27 17:49:34.000000",
+                "date": "2019-07-01 15:37:24.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-06-27 17:49:34.000000",
+                "date": "2019-07-01 15:37:24.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The German chancellor began trembling at a ceremony in Berlin on Thursday, 10 days after she blamed high temperatures for another shaking episode.<\/p>",
+            "content": "<p>The violation does not by itself give the country the material for a nuclear weapon, but it signals that Tehran may be willing to abandon the pact\u2019s limits.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Germany",
-                "Merkel, Angela"
+                "Nuclear Weapons",
+                "Cyberwarfare and Defense",
+                "Embargoes and Sanctions",
+                "United States International Relations",
+                "Defense and Military Forces",
+                "United States Politics and Government",
+                "Uranium",
+                "Stockpiling",
+                "Rouhani, Hassan",
+                "Trump, Donald J",
+                "Tehran (Iran)",
+                "Zarif, Mohammad Javad"
             ],
             "xml": {
-                "title": "Angela Merkel Is Seen Shaking Again, but Spokesman Insists She\u2019s Fine",
-                "link": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/europe\/angela-merkel-shaking.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/06\/27\/world\/europe\/angela-merkel-shaking.html",
-                "description": "The German chancellor began trembling at a ceremony in Berlin on Thursday, 10 days after she blamed high temperatures for another shaking episode.",
-                "pubDate": "Thu, 27 Jun 2019 17:49:34 +0000",
+                "title": "Iran Breaches Critical Limit on Nuclear Fuel Under 2015 Deal",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/01\/us\/politics\/iran-nuclear-limit-compliance.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/01\/us\/politics\/iran-nuclear-limit-compliance.html",
+                "description": "The violation does not by itself give the country the material for a nuclear weapon, but it signals that Tehran may be willing to abandon the pact\u2019s limits.",
+                "pubDate": "Mon, 01 Jul 2019 15:37:24 +0000",
                 "category": [
-                    "Germany",
-                    "Merkel, Angela"
+                    "Nuclear Weapons",
+                    "Cyberwarfare and Defense",
+                    "Embargoes and Sanctions",
+                    "United States International Relations",
+                    "Defense and Military Forces",
+                    "United States Politics and Government",
+                    "Uranium",
+                    "Stockpiling",
+                    "Rouhani, Hassan",
+                    "Trump, Donald J",
+                    "Tehran (Iran)",
+                    "Zarif, Mohammad Javad"
                 ]
             },
             "namespaces": {

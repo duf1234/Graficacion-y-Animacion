@@ -2,14 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/themes/gravi-k.yaml',
-    'modified' => 1561566535,
+    'modified' => 1561866045,
     'data' => [
         'enabled' => true,
         'dropdown' => [
             'enabled' => true
         ],
         'default_lang' => 'es',
-        'logo' => 'grav/user/plugins/admin/themes/grav/images/favicon.jpg',
         'social' => [
             'display' => false,
             'links' => [

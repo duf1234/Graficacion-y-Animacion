@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/themes/g5_hydrogen/blueprints.yaml',
-    'modified' => 1560745056,
+    'modified' => 1561869445,
     'data' => [
         'name' => 'Hydrogen',
-        'version' => '5.4.28',
+        'version' => '5.4.29',
         'description' => 'Default Gantry 5 theme.',
         'icon' => 'gantry',
         'author' => [
@@ -18,6 +18,12 @@ return [
         'keywords' => 'gantry, gantry5, theme',
         'bugs' => 'https://github.com/gantry/gantry5/issues',
         'license' => 'MIT',
+        'dependencies' => [
+            0 => [
+                'name' => 'grav',
+                'version' => '>=1.5.10'
+            ]
+        ],
         'form' => [
             'validation' => 'loose',
             'fields' => NULL

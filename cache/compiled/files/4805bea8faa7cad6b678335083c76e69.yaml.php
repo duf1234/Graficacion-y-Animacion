@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/themes/bootstrap4-open-matter.yaml',
-    'modified' => 1560742321,
+    'modified' => 1561865824,
     'data' => [
         'navbar_style' => 'navbar-light',
         'navbar_position' => 'top',
@@ -27,7 +27,7 @@ return [
         'chromeless' => [
             'enabled' => true
         ],
-        'display_of_git_sync_repo_link' => 'menu',
+        'display_of_git_sync_repo_link' => 'footer',
         'type_of_git_sync_repo_link' => 'view',
         'custom_git_sync_repo_link_icon' => 'Brayan',
         'custom_git_sync_repo_link_text' => 'ver pagina de Git',
@@ -44,8 +44,14 @@ return [
         'displaycustommenus' => [
             'enabled' => true
         ],
-        'theme_stylesheet' => 'cerulean',
+        'theme_stylesheet' => 'litera',
         'navbar_bg' => 'bg-success',
-        'navbar_bg_color' => '#1cbdb8'
+        'navbar_bg_color' => '#1cbdb8',
+        'custommenu' => [
+            0 => [
+                'text' => 'brayanminavernaza19@gmail.com',
+                'target' => '_self'
+            ]
+        ]
     ]
 ];
