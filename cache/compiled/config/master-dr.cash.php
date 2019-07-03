@@ -1,7 +1,7 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1562017305,
+    'timestamp' => 1562069705,
     'checksum' => 'a3a65d8ef8c8b3cf19e0313304fc70b0',
     'files' => [
         'user/config' => [

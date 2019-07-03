@@ -2,18 +2,25 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/config/system.yaml',
-    'modified' => 1561932040,
+    'modified' => 1562001801,
     'data' => [
         'absolute_urls' => false,
+        'timezone' => '',
+        'default_locale' => NULL,
         'param_sep' => ':',
         'wrapped_site' => false,
         'reverse_proxy_setup' => false,
         'force_ssl' => false,
         'force_lowercase_urls' => true,
+        'custom_base_url' => '',
         'username_regex' => '^[a-z0-9_-]{3,16}$',
         'pwd_regex' => '(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{8,}',
         'intl_enabled' => true,
         'languages' => [
+            'supported' => [
+                
+            ],
+            'default_lang' => NULL,
             'include_default_lang' => true,
             'pages_fallback_only' => false,
             'translations' => true,
@@ -27,7 +34,7 @@ return [
             'hide_in_urls' => false
         ],
         'pages' => [
-            'theme' => 'antimatter',
+            'theme' => 'gravi-k',
             'order' => [
                 'by' => 'date',
                 'dir' => 'asc'
@@ -36,6 +43,7 @@ return [
                 'count' => 20
             ],
             'dateformat' => [
+                'default' => NULL,
                 'short' => 'jS M Y',
                 'long' => 'F jS \\a\\t g:ia'
             ],
@@ -69,7 +77,9 @@ return [
                 5 => 'rss',
                 6 => 'atom'
             ],
+            'append_url_extension' => '',
             'expires' => 604800,
+            'cache_control' => NULL,
             'last_modified' => false,
             'etag' => false,
             'vary_accept_encoding' => false,
@@ -84,6 +94,7 @@ return [
                 1 => '.idea'
             ],
             'ignore_hidden' => true,
+            'hide_empty_folders' => false,
             'url_taxonomy_filters' => true,
             'frontmatter' => [
                 'process_twig' => true,
@@ -107,7 +118,10 @@ return [
             'cli_compatibility' => false,
             'lifetime' => 604800,
             'gzip' => false,
-            'allow_webserver_gzip' => false
+            'allow_webserver_gzip' => false,
+            'redis' => [
+                'socket' => false
+            ]
         ],
         'twig' => [
             'cache' => true,
@@ -161,6 +175,12 @@ return [
         ],
         'media' => [
             'enable_media_timestamp' => false,
+            'unsupported_inline_types' => [
+                
+            ],
+            'allowed_fallback_types' => [
+                
+            ],
             'auto_metadata_exif' => false,
             'upload_limit' => 8388608
         ],
@@ -172,10 +192,12 @@ return [
             'uniqueness' => 'path',
             'secure' => false,
             'httponly' => true,
-            'split' => true
+            'split' => true,
+            'path' => NULL
         ],
         'gpm' => [
             'releases' => 'stable',
+            'proxy_url' => NULL,
             'method' => 'auto',
             'verify_peer' => true,
             'official_gpm_only' => true

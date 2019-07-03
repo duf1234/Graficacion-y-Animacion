@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1561940678,
-    'checksum' => 'e331a2d0818064ff05e89e623a62ade8',
+    'timestamp' => 1562026380,
+    'checksum' => 'a3a65d8ef8c8b3cf19e0313304fc70b0',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -39,7 +39,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1561932040
+                'modified' => 1562001801
             ],
             'themes/agency' => [
                 'file' => 'user/config/themes/agency.yaml',
@@ -1193,7 +1193,7 @@ node_modules',
                 'hide_in_urls' => false
             ],
             'pages' => [
-                'theme' => 'antimatter',
+                'theme' => 'gravi-k',
                 'order' => [
                     'by' => 'date',
                     'dir' => 'asc'

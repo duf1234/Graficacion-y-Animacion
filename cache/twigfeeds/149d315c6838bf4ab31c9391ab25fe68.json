@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1561998686,
-    "last_checked": 1561998686,
+    "timestamp": 1562185045,
+    "last_checked": 1562185045,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "133ea14910f240cb40ec056957c26faa2b2b053ab32a65c9c0cb95160ef54fbb",
-            "title": "Tory leadership: Jeremy Hunt sets 30 September 'no-deal deadline'",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48819260",
+            "id": "56135c5538200efb81f5b51c3ecb303efe78a9794e9cb02ad9375127a92afec2",
+            "title": "Hong Kong protests: China tells UK not to interfere in 'domestic affairs'",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48855643",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-01 13:48:47.000000",
+                "date": "2019-07-03 17:39:39.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-01 13:48:47.000000",
+                "date": "2019-07-03 17:39:39.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-01 13:48:47.000000",
+                "date": "2019-07-03 17:39:39.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The leadership hopeful says he would give the EU three weeks to show willing before abandoning talks.<\/p>",
+            "content": "<p>Beijing tells the UK not to &quot;interfere in its domestic affairs&quot; after protests in the former colony.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48819260",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48819260",
-                "pubDate": "Mon, 01 Jul 2019 13:48:47 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48855643",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48855643",
+                "pubDate": "Wed, 03 Jul 2019 17:39:39 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "59bcd00bd7ff3d1ee5fd0acc0f8084e9a9802aa47198ff131bddcf9f70ced2e3",
-            "title": "Glastonbury Festival: Security guard found dead in tent",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-somerset-48829370",
+            "id": "846e22584701d5c1fc43a18a0160fc6e7ad7777fa47ad9768e93fb1b67e10657",
+            "title": "Two rail workers killed near Port Talbot after being hit by train",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-wales-48854010",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-01 13:47:01.000000",
+                "date": "2019-07-03 17:37:52.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-01 13:47:01.000000",
+                "date": "2019-07-03 17:37:52.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-01 13:47:01.000000",
+                "date": "2019-07-03 17:37:52.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The 60-year-old G4S security officer was found dead in his tent on Sunday afternoon.<\/p>",
+            "content": "<p>The two men who were hit by a passenger train were wearing ear defenders, police say.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-somerset-48829370",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-somerset-48829370",
-                "pubDate": "Mon, 01 Jul 2019 13:47:01 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-wales-48854010",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-wales-48854010",
+                "pubDate": "Wed, 03 Jul 2019 17:37:52 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "e7e1040c97cac46ce62c050f38cb2a84d9fb0dbd85d9086be48a5a2fc91b9d1d",
-            "title": "TV star's call for online homophobia to be hate crime debated by MPs",
-            "url": "https:\/\/www.bbc.co.uk\/news\/technology-48825769",
+            "id": "f0bc289ae1e7075feba6343849ff90c0684f79442b7f91d88e58be43ce20789c",
+            "title": "Suzy Lamplugh disappearance: Police search land in Pershore",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-48859507",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-01 16:17:46.000000",
+                "date": "2019-07-03 17:34:32.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-01 16:17:46.000000",
+                "date": "2019-07-03 17:34:32.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-01 16:17:46.000000",
+                "date": "2019-07-03 17:34:32.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The Only Way Is Essex&#039;s Bobby Norris says online homophobia should be a specific criminal offence.<\/p>",
+            "content": "<p>The London estate agent disappeared 33 years ago and her body has never been found.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/technology-48825769",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/technology-48825769",
-                "pubDate": "Mon, 01 Jul 2019 16:17:46 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-48859507",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-48859507",
+                "pubDate": "Wed, 03 Jul 2019 17:34:32 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "9f117a0b941cf2f3f38a494b586050b76b75625eadc38c038af5bad74d8ec1a1",
-            "title": "Cliff Richard and Paul Gambaccini launch sex offence anonymity campaign",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48822950",
+            "id": "13df8cbac56f8586eface5bdee4ab5bdede1b17f6b9c058c0c7aef43539de136",
+            "title": "London Bridge attack police officer shouted 'shoot him'",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48852270",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-01 15:58:27.000000",
+                "date": "2019-07-03 17:29:29.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-01 15:58:27.000000",
+                "date": "2019-07-03 17:29:29.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-01 15:58:27.000000",
+                "date": "2019-07-03 17:29:29.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The singer calls for legal changes, saying being named as a suspect left his reputation in tatters.<\/p>",
+            "content": "<p>A police officer pointed out the ringleader to armed colleagues, ending the deadly attack, a jury hears.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48822950",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48822950",
-                "pubDate": "Mon, 01 Jul 2019 15:58:27 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48852270",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48852270",
+                "pubDate": "Wed, 03 Jul 2019 17:29:29 GMT"
             },
             "namespaces": []
         }

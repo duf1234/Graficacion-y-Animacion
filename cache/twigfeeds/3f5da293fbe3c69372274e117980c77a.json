@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1562000719,
-    "last_checked": 1562000719,
+    "timestamp": 1562185880,
+    "last_checked": 1562185879,
     "amount": 2,
     "items": [
         {
@@ -18,49 +18,51 @@
                 "he",
                 "yi"
             ],
-            "id": "2933ff5a1d6321ae172c8dce399fa7748c933d3d70bb081d5fab38fa97eedb3b",
-            "title": "Hong Kong Protest Live Updates: Police Rush Protesters Outside Legislative Building",
-            "url": "https:\/\/www.nytimes.com\/2019\/06\/30\/world\/asia\/hong-kong-protest-live-updates.html?emc=rss&partner=rss",
-            "author": "The New York Times",
+            "id": "ab8c5da84e1a32af4055b5edb8681ad1f18b912b7f4de68c12b24dba4f16c226",
+            "title": "Rouhani Says Iran Will Begin Enriching Uranium at Higher Level in Days",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/middleeast\/iran-uranium-enrichment-rouhani.html?emc=rss&partner=rss",
+            "author": "David D. Kirkpatrick",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-01 16:51:46.000000",
+                "date": "2019-07-03 18:02:08.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-01 16:51:46.000000",
+                "date": "2019-07-03 18:02:08.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-01 16:51:46.000000",
+                "date": "2019-07-03 18:02:08.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Protesters had mostly cleared out of the Legislative Council building after 3 hours of occupation. Then a cordon of riot police charged to disperse the crowd outside.<\/p>",
+            "content": "<p>Iran will \u201ctake the next step\u201d on Sunday in enriching uranium beyond levels specified under the 2015 nuclear deal, President Hassan Rouhani said.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Demonstrations, Protests and Riots",
-                "Politics and Government",
-                "Lam, Carrie (1957- )",
-                "Hong Kong",
-                "China"
+                "Nuclear Weapons",
+                "United States International Relations",
+                "Embargoes and Sanctions",
+                "Uranium",
+                "Rouhani, Hassan",
+                "Iran"
             ],
             "xml": {
-                "title": "Hong Kong Protest Live Updates: Police Rush Protesters Outside Legislative Building",
-                "link": "https:\/\/www.nytimes.com\/2019\/06\/30\/world\/asia\/hong-kong-protest-live-updates.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/06\/30\/world\/asia\/hong-kong-protest-live-updates.html",
-                "description": "Protesters had mostly cleared out of the Legislative Council building after 3 hours of occupation. Then a cordon of riot police charged to disperse the crowd outside.",
-                "pubDate": "Mon, 01 Jul 2019 16:51:46 +0000",
+                "title": "Rouhani Says Iran Will Begin Enriching Uranium at Higher Level in Days",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/middleeast\/iran-uranium-enrichment-rouhani.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/middleeast\/iran-uranium-enrichment-rouhani.html",
+                "description": "Iran will \u201ctake the next step\u201d on Sunday in enriching uranium beyond levels specified under the 2015 nuclear deal, President Hassan Rouhani said.",
+                "pubDate": "Wed, 03 Jul 2019 18:02:08 +0000",
                 "category": [
-                    "Demonstrations, Protests and Riots",
-                    "Politics and Government",
-                    "Lam, Carrie (1957- )",
-                    "Hong Kong",
-                    "China"
+                    "Nuclear Weapons",
+                    "United States International Relations",
+                    "Embargoes and Sanctions",
+                    "Uranium",
+                    "Rouhani, Hassan",
+                    "Iran"
                 ]
             },
             "namespaces": {
@@ -80,63 +82,61 @@
                 "he",
                 "yi"
             ],
-            "id": "90994fc8995dfecd4ebef78169eaf7dca7bcd6c805c4be7ce51da08a891d79b1",
-            "title": "Iran Breaches Critical Limit on Nuclear Fuel Under 2015 Deal",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/01\/us\/politics\/iran-nuclear-limit-compliance.html?emc=rss&partner=rss",
-            "author": "David E. Sanger",
+            "id": "3fc54695c2f4af7cd8eabbefee834f2d63c50ea22c9d6019be9526de6200edeb",
+            "title": "As Protests Rock Hong Kong, Xi Jinping\u2019s View of History Shows He Will Dig In",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/asia\/xi-jinping-hong-kong.html?emc=rss&partner=rss",
+            "author": "Steven Lee Myers",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-01 15:37:24.000000",
+                "date": "2019-07-03 20:28:41.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-01 15:37:24.000000",
+                "date": "2019-07-03 20:28:41.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-01 15:37:24.000000",
+                "date": "2019-07-03 20:28:41.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The violation does not by itself give the country the material for a nuclear weapon, but it signals that Tehran may be willing to abandon the pact\u2019s limits.<\/p>",
+            "content": "<p>There are increasing signs that China\u2019s patience toward the protests in Hong Kong is wearing thin.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Nuclear Weapons",
-                "Cyberwarfare and Defense",
-                "Embargoes and Sanctions",
-                "United States International Relations",
-                "Defense and Military Forces",
-                "United States Politics and Government",
-                "Uranium",
-                "Stockpiling",
-                "Rouhani, Hassan",
-                "Trump, Donald J",
-                "Tehran (Iran)",
-                "Zarif, Mohammad Javad"
+                "Demonstrations, Protests and Riots",
+                "Cultural Revolution",
+                "Communist Party of China",
+                "Global Times",
+                "People's Liberation Army (China)",
+                "Mao Zedong",
+                "Gorbachev, Mikhail S",
+                "Tsai Ing-wen",
+                "Xi Jinping",
+                "China",
+                "Hong Kong"
             ],
             "xml": {
-                "title": "Iran Breaches Critical Limit on Nuclear Fuel Under 2015 Deal",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/01\/us\/politics\/iran-nuclear-limit-compliance.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/01\/us\/politics\/iran-nuclear-limit-compliance.html",
-                "description": "The violation does not by itself give the country the material for a nuclear weapon, but it signals that Tehran may be willing to abandon the pact\u2019s limits.",
-                "pubDate": "Mon, 01 Jul 2019 15:37:24 +0000",
+                "title": "As Protests Rock Hong Kong, Xi Jinping\u2019s View of History Shows He Will Dig In",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/asia\/xi-jinping-hong-kong.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/asia\/xi-jinping-hong-kong.html",
+                "description": "There are increasing signs that China\u2019s patience toward the protests in Hong Kong is wearing thin.",
+                "pubDate": "Wed, 03 Jul 2019 20:28:41 +0000",
                 "category": [
-                    "Nuclear Weapons",
-                    "Cyberwarfare and Defense",
-                    "Embargoes and Sanctions",
-                    "United States International Relations",
-                    "Defense and Military Forces",
-                    "United States Politics and Government",
-                    "Uranium",
-                    "Stockpiling",
-                    "Rouhani, Hassan",
-                    "Trump, Donald J",
-                    "Tehran (Iran)",
-                    "Zarif, Mohammad Javad"
+                    "Demonstrations, Protests and Riots",
+                    "Cultural Revolution",
+                    "Communist Party of China",
+                    "Global Times",
+                    "People's Liberation Army (China)",
+                    "Mao Zedong",
+                    "Gorbachev, Mikhail S",
+                    "Tsai Ing-wen",
+                    "Xi Jinping",
+                    "China",
+                    "Hong Kong"
                 ]
             },
             "namespaces": {
