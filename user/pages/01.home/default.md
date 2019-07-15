@@ -14,6 +14,25 @@ feed:
     description: ''
 ---
 
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>AR.js</h1>
+<p>AR.js es una solución eficiente de Realidad Aumentada en la Web. Se ejecuta al 100% en su navegador web, esto significa que no hay que instalar ninguna aplicación. No hay necesidad de un dispositivo específico, por ejemplo, Tango o iPhone. Se ejecuta en todas las plataformas móviles: Android, iOS11 y Windows móvil. Puedes usarlo con tu propio teléfono.</p>
+<p>A-Frame es muy fácil de usar, así que quería asegurarme de que AR.js estaba funcionando bien con él. Por lo tanto, al combinar A-Frame y AR.js, es fácil para todos crear contenido de AR en la web.</p>
+    
+<p>Aqui puedes probar el uso de los marcadores para obtener informacion de los laboratorios <a href="https://thebrayanmina.com/marcadores/ejemploarjs.html">AR.JS</a>?<br />
+</p>
+    
+    <p>en este link se encuentran los marcadores para buscar la informacion <a href="https://thebrayanmina.com/marcadores/ubicacionMarcadores.html">Marcadores</a>?<br />
+¡en el siguiente link encuentra los marcadores con los que trabajaremos ;-)</p>
+
+    <img src="http://blogs.ubc.ca/augmentedreality/files/2013/10/qr-code-denso.png">
+</body>
+</html>
 <html> 
     <head>
 	<title>PIXI Concentration</title>
@@ -25,11 +44,16 @@ feed:
 		}
 	</style>
 	<script src="pixi.dev.js"></script>
-</head>
 
-<body  background="http://gifgifs.com/animations/words/welcome-signs/stars.gif" >
-	<p id="Score">Puntaje: 6 Nivel: 1</p>
+<h1>Examen Juego de Pixi.js</h1>
+<body  background="https://andro4all.com/files/2019/03/Flores.jpg" >
     <h3>Disfruta nuestro juego Hecho en PIXIJS</h3>
+    <p id="Score">Puntaje: 6 Nivel: 1</p>
+     <body>
+<h1>Pixi.js</h1>
+<p>Pixi es un motor de renderizado 2d muy potente, lo que significa que te ayuda a mostrar y animar gráficos interactivos, lo que facilita la creación de juegos en javascript y HTML5 sin tener que acceder directamente a la API de WebGL.</p>
+<p>Como se puede apreciar Pixi es un framework bastante potente para el desarrollo de juegos ya que nos proporciona una serie de métodos muy sencillos y potentes para el tratamiento de la parte que más recursos necesita de nuestro juego que son los gráficos.</p>
+</body>
 	<script>
 			//Mis variables
 			var nivel = 1;
@@ -225,4 +249,9 @@ feed:
 
 
 </body>
+
+  </head>
 </html>
+
+
+

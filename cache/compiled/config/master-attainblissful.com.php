@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1561852277,
-    'checksum' => 'e4a5eb11031cf775ddcc69e5a4060dfc',
+    'timestamp' => 1562282270,
+    'checksum' => 'a3a65d8ef8c8b3cf19e0313304fc70b0',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -39,7 +39,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1561673277
+                'modified' => 1562001801
             ],
             'themes/agency' => [
                 'file' => 'user/config/themes/agency.yaml',
@@ -63,7 +63,7 @@ return [
             ],
             'themes/bootstrap4-open-matter' => [
                 'file' => 'user/config/themes/bootstrap4-open-matter.yaml',
-                'modified' => 1560742321
+                'modified' => 1561865824
             ],
             'themes/brilliant-resume' => [
                 'file' => 'user/config/themes/brilliant-resume.yaml',
@@ -91,19 +91,31 @@ return [
             ],
             'themes/gravi-k' => [
                 'file' => 'user/config/themes/gravi-k.yaml',
-                'modified' => 1561671786
+                'modified' => 1561866045
             ],
             'themes/hpstr' => [
                 'file' => 'user/config/themes/hpstr.yaml',
                 'modified' => 1560742889
             ],
+            'themes/hyde' => [
+                'file' => 'user/config/themes/hyde.yaml',
+                'modified' => 1561868455
+            ],
             'themes/landed' => [
                 'file' => 'user/config/themes/landed.yaml',
                 'modified' => 1560743539
             ],
+            'themes/learn2' => [
+                'file' => 'user/config/themes/learn2.yaml',
+                'modified' => 1561915900
+            ],
             'themes/machine' => [
                 'file' => 'user/config/themes/machine.yaml',
                 'modified' => 1561670022
+            ],
+            'themes/minimaxing' => [
+                'file' => 'user/config/themes/minimaxing.yaml',
+                'modified' => 1561916938
             ],
             'themes/zsimplex' => [
                 'file' => 'user/config/themes/zsimplex.yaml',
@@ -179,7 +191,7 @@ return [
             ],
             'plugins/presentation' => [
                 'file' => 'user/plugins/presentation/presentation.yaml',
-                'modified' => 1560742011
+                'modified' => 1561869438
             ],
             'plugins/archives' => [
                 'file' => 'user/plugins/archives/archives.yaml',
@@ -223,11 +235,11 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1560698690
+                'modified' => 1561869437
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
-                'modified' => 1560356511
+                'modified' => 1561869439
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/youtube.yaml',
@@ -243,7 +255,7 @@ return [
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1560698687
+                'modified' => 1561869436
             ],
             'plugins/grava11y' => [
                 'file' => 'user/plugins/grava11y/grava11y.yaml',
@@ -1181,9 +1193,9 @@ node_modules',
                 'hide_in_urls' => false
             ],
             'pages' => [
-                'theme' => 'antimatter',
+                'theme' => 'gravi-k',
                 'order' => [
-                    'by' => 'default',
+                    'by' => 'date',
                     'dir' => 'asc'
                 ],
                 'list' => [
@@ -1199,7 +1211,7 @@ node_modules',
                     'markdown' => true,
                     'twig' => false
                 ],
-                'twig_first' => false,
+                'twig_first' => true,
                 'never_cache_twig' => true,
                 'events' => [
                     'page' => true,
@@ -1230,8 +1242,8 @@ node_modules',
                 'last_modified' => false,
                 'etag' => false,
                 'vary_accept_encoding' => false,
-                'redirect_default_route' => false,
-                'redirect_default_code' => '302',
+                'redirect_default_route' => true,
+                'redirect_default_code' => '303',
                 'redirect_trailing_slash' => true,
                 'ignore_files' => [
                     0 => '.DS_Store'
@@ -1244,7 +1256,7 @@ node_modules',
                 'hide_empty_folders' => false,
                 'url_taxonomy_filters' => true,
                 'frontmatter' => [
-                    'process_twig' => false,
+                    'process_twig' => true,
                     'ignore_fields' => [
                         0 => 'form',
                         1 => 'forms'
@@ -1675,7 +1687,7 @@ node_modules',
                 'chromeless' => [
                     'enabled' => true
                 ],
-                'display_of_git_sync_repo_link' => 'menu',
+                'display_of_git_sync_repo_link' => 'footer',
                 'type_of_git_sync_repo_link' => 'view',
                 'custom_git_sync_repo_link_icon' => 'Brayan',
                 'custom_git_sync_repo_link_text' => 'ver pagina de Git',
@@ -1692,9 +1704,15 @@ node_modules',
                 'displaycustommenus' => [
                     'enabled' => true
                 ],
-                'theme_stylesheet' => 'cerulean',
+                'theme_stylesheet' => 'litera',
                 'navbar_bg' => 'bg-success',
-                'navbar_bg_color' => '#1cbdb8'
+                'navbar_bg_color' => '#1cbdb8',
+                'custommenu' => [
+                    0 => [
+                        'text' => 'brayanminavernaza19@gmail.com',
+                        'target' => '_self'
+                    ]
+                ]
             ],
             'brilliant-resume' => [
                 'enabled' => true,
@@ -1791,7 +1809,6 @@ node_modules',
                     'enabled' => true
                 ],
                 'default_lang' => 'es',
-                'logo' => 'grav/user/plugins/admin/themes/grav/images/favicon.jpg',
                 'social' => [
                     'display' => false,
                     'links' => [
@@ -1845,10 +1862,27 @@ node_modules',
                     'display' => 'content'
                 ]
             ],
+            'hyde' => [
+                'enabled' => true,
+                'dropdown' => [
+                    'enabled' => true
+                ]
+            ],
             'landed' => [
                 'enabled' => true,
                 'dropdown' => [
                     'enabled' => true
+                ]
+            ],
+            'learn2' => [
+                'enabled' => true,
+                'top_level_version' => true,
+                'show_all_pages' => false,
+                'google_analytics_code' => 'UA-139855332-2',
+                'github' => [
+                    'position' => 'off',
+                    'tree' => 'https://github.com/getgrav/grav-skeleton-rtfm-site/blob/develop/',
+                    'commits' => 'https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/'
                 ]
             ],
             'machine' => [
@@ -1875,6 +1909,12 @@ node_modules',
                             ]
                         ]
                     ]
+                ]
+            ],
+            'minimaxing' => [
+                'enabled' => true,
+                'dropdown' => [
+                    'enabled' => true
                 ]
             ],
             'zsimplex' => [

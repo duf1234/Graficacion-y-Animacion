@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1562185880,
-    "last_checked": 1562185879,
+    "timestamp": 1563225322,
+    "last_checked": 1563225322,
     "amount": 2,
     "items": [
         {
@@ -18,51 +18,49 @@
                 "he",
                 "yi"
             ],
-            "id": "ab8c5da84e1a32af4055b5edb8681ad1f18b912b7f4de68c12b24dba4f16c226",
-            "title": "Rouhani Says Iran Will Begin Enriching Uranium at Higher Level in Days",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/middleeast\/iran-uranium-enrichment-rouhani.html?emc=rss&partner=rss",
-            "author": "David D. Kirkpatrick",
+            "id": "e8277271ea4c2e8808b2bb03d16f16f1948d9530c0d5401e135361da4fa6a86e",
+            "title": "And Then There Was One: Three People Lived in This Village Until Two Were Murdered.",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/europe\/moldova-eastern-europe-population-decline.html?emc=rss&partner=rss",
+            "author": "Patrick Kingsley and Laetitia Vancon",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-03 18:02:08.000000",
+                "date": "2019-07-15 18:37:23.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-03 18:02:08.000000",
+                "date": "2019-07-15 18:37:23.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-03 18:02:08.000000",
+                "date": "2019-07-15 18:37:23.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Iran will \u201ctake the next step\u201d on Sunday in enriching uranium beyond levels specified under the 2015 nuclear deal, President Hassan Rouhani said.<\/p>",
+            "content": "<p>Thirty years ago, 200 people lived in the Moldovan village of Dobrusa. But most have since left or died. After a twin killing in February, there\u2019s only one survivor still standing.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Nuclear Weapons",
-                "United States International Relations",
-                "Embargoes and Sanctions",
-                "Uranium",
-                "Rouhani, Hassan",
-                "Iran"
+                "Population",
+                "Dobrusa (Moldova)",
+                "Moldova",
+                "Immigration and Emigration",
+                "Eastern Europe"
             ],
             "xml": {
-                "title": "Rouhani Says Iran Will Begin Enriching Uranium at Higher Level in Days",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/middleeast\/iran-uranium-enrichment-rouhani.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/middleeast\/iran-uranium-enrichment-rouhani.html",
-                "description": "Iran will \u201ctake the next step\u201d on Sunday in enriching uranium beyond levels specified under the 2015 nuclear deal, President Hassan Rouhani said.",
-                "pubDate": "Wed, 03 Jul 2019 18:02:08 +0000",
+                "title": "And Then There Was One: Three People Lived in This Village Until Two Were Murdered.",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/europe\/moldova-eastern-europe-population-decline.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/europe\/moldova-eastern-europe-population-decline.html",
+                "description": "Thirty years ago, 200 people lived in the Moldovan village of Dobrusa. But most have since left or died. After a twin killing in February, there\u2019s only one survivor still standing.",
+                "pubDate": "Mon, 15 Jul 2019 18:37:23 +0000",
                 "category": [
-                    "Nuclear Weapons",
-                    "United States International Relations",
-                    "Embargoes and Sanctions",
-                    "Uranium",
-                    "Rouhani, Hassan",
-                    "Iran"
+                    "Population",
+                    "Dobrusa (Moldova)",
+                    "Moldova",
+                    "Immigration and Emigration",
+                    "Eastern Europe"
                 ]
             },
             "namespaces": {
@@ -82,61 +80,63 @@
                 "he",
                 "yi"
             ],
-            "id": "3fc54695c2f4af7cd8eabbefee834f2d63c50ea22c9d6019be9526de6200edeb",
-            "title": "As Protests Rock Hong Kong, Xi Jinping\u2019s View of History Shows He Will Dig In",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/asia\/xi-jinping-hong-kong.html?emc=rss&partner=rss",
-            "author": "Steven Lee Myers",
+            "id": "fbe751ee0b4af58b4c90e2686708dd0163231bcccca9b61bf6f7f933b0d97b8e",
+            "title": "Flooding Kills Dozens in Nepal as Waters Rise Across Asia",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/asia\/rains-nepal-india-flooding.html?emc=rss&partner=rss",
+            "author": "Bhadra Sharma and Mike Ives",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-03 20:28:41.000000",
+                "date": "2019-07-15 09:40:40.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-03 20:28:41.000000",
+                "date": "2019-07-15 09:40:40.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-03 20:28:41.000000",
+                "date": "2019-07-15 09:40:40.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>There are increasing signs that China\u2019s patience toward the protests in Hong Kong is wearing thin.<\/p>",
+            "content": "<p>The hardest-hit country appeared to be Nepal, where the authorities said 67 people had died. Deaths were also reported in India and Bangladesh.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Demonstrations, Protests and Riots",
-                "Cultural Revolution",
-                "Communist Party of China",
-                "Global Times",
-                "People's Liberation Army (China)",
-                "Mao Zedong",
-                "Gorbachev, Mikhail S",
-                "Tsai Ing-wen",
-                "Xi Jinping",
+                "Floods",
+                "Landslides and Mudslides",
+                "Refugees and Displaced Persons",
+                "Weather",
+                "Rain",
+                "Monsoons",
+                "Assam State (India)",
+                "Bangladesh",
+                "Bihar (India)",
                 "China",
-                "Hong Kong"
+                "India",
+                "Nepal"
             ],
             "xml": {
-                "title": "As Protests Rock Hong Kong, Xi Jinping\u2019s View of History Shows He Will Dig In",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/asia\/xi-jinping-hong-kong.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/03\/world\/asia\/xi-jinping-hong-kong.html",
-                "description": "There are increasing signs that China\u2019s patience toward the protests in Hong Kong is wearing thin.",
-                "pubDate": "Wed, 03 Jul 2019 20:28:41 +0000",
+                "title": "Flooding Kills Dozens in Nepal as Waters Rise Across Asia",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/asia\/rains-nepal-india-flooding.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/asia\/rains-nepal-india-flooding.html",
+                "description": "The hardest-hit country appeared to be Nepal, where the authorities said 67 people had died. Deaths were also reported in India and Bangladesh.",
+                "pubDate": "Mon, 15 Jul 2019 09:40:40 +0000",
                 "category": [
-                    "Demonstrations, Protests and Riots",
-                    "Cultural Revolution",
-                    "Communist Party of China",
-                    "Global Times",
-                    "People's Liberation Army (China)",
-                    "Mao Zedong",
-                    "Gorbachev, Mikhail S",
-                    "Tsai Ing-wen",
-                    "Xi Jinping",
+                    "Floods",
+                    "Landslides and Mudslides",
+                    "Refugees and Displaced Persons",
+                    "Weather",
+                    "Rain",
+                    "Monsoons",
+                    "Assam State (India)",
+                    "Bangladesh",
+                    "Bihar (India)",
                     "China",
-                    "Hong Kong"
+                    "India",
+                    "Nepal"
                 ]
             },
             "namespaces": {
