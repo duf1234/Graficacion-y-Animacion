@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1563224729,
-    "last_checked": 1563224729,
+    "timestamp": 1563808161,
+    "last_checked": 1563808161,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "b1f03c3713f4a3980d46cb6c7f26eb10c945598aad2cbe50baa47fafb424769b",
-            "title": "PM candidates condemn Trump's 'go back' remark to congresswomen",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48997587",
+            "id": "647d7aa0e6740f34fa63745ee42cfb6db883d13f10718636fbd72d6a512e0b9c",
+            "title": "Carl Beech trial: 'VIP abuse' accuser guilty of false claims",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49074879",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-15 20:06:25.000000",
+                "date": "2019-07-22 15:01:52.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-15 20:06:25.000000",
+                "date": "2019-07-22 15:01:52.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-15 20:06:25.000000",
+                "date": "2019-07-22 15:01:52.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Jeremy Hunt says the language was &quot;totally offensive&quot;, while Boris Johnson says it was &quot;unacceptable&quot;.<\/p>",
+            "content": "<p>A convicted paedophile made false allegations of murder and sexual abuse against public figures.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48997587",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-48997587",
-                "pubDate": "Mon, 15 Jul 2019 20:06:25 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49074879",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49074879",
+                "pubDate": "Mon, 22 Jul 2019 15:01:52 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "9ef2c331c215581683c5d2297434d410c4bba9474e8dc73e8bba04e83abc616d",
-            "title": "Extinction Rebellion protesters block roads in UK cities",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48987193",
+            "id": "faf8e216ecdeb277bd346a0001dc13bcfd9c652b479586340d21a8d27dfaa92f",
+            "title": "Iran tanker seizure: Images of captured British-flagged crew released",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49074032",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-15 12:47:07.000000",
+                "date": "2019-07-22 14:41:11.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-15 12:47:07.000000",
+                "date": "2019-07-22 14:41:11.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-15 12:47:07.000000",
+                "date": "2019-07-22 14:41:11.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Climate change campaigners use colourful boats to stop traffic and urge the government to &quot;act now&quot;.<\/p>",
+            "content": "<p>Photographs appear to show the crew of the British-flagged vessel being briefed by Iranian officials.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48987193",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48987193",
-                "pubDate": "Mon, 15 Jul 2019 12:47:07 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49074032",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49074032",
+                "pubDate": "Mon, 22 Jul 2019 14:41:11 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "3627c01fa10d73e14f7585cdf6554ef7b3093820aade58d48695fa6fbc05a0c5",
-            "title": "Eric Michels murder: Serial killer Stephen Port's drug dealer convicted",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48991023",
+            "id": "34c466cef97c4dbc40ff8f28b3338aff7a1d9c9c2879b9bf2cba4bc4e50f4b6a",
+            "title": "Tory leadership race: Alan Duncan resigns as minister",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49069880",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-15 15:51:23.000000",
+                "date": "2019-07-22 14:53:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-15 15:51:23.000000",
+                "date": "2019-07-22 14:53:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-15 15:51:23.000000",
+                "date": "2019-07-22 14:53:27.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Gerald Matovu, who sold drugs to serial killer Stephen Port, gave his victim an overdose of GHB.<\/p>",
+            "content": "<p>Sir Alan Duncan presses for Commons vote on whether MPs support Boris Johnson forming a government.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48991023",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-48991023",
-                "pubDate": "Mon, 15 Jul 2019 15:51:23 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49069880",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49069880",
+                "pubDate": "Mon, 22 Jul 2019 14:53:27 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "a15b190a14ec3feca6648a02b4a5bf32ebb04b314aa2745e72ca400ad3e0ac31",
-            "title": "New face of the Bank of England's \u00a350 note is revealed as Alan Turing",
-            "url": "https:\/\/www.bbc.co.uk\/news\/business-48962557",
+            "id": "97e18b7abe332f0e622e259bf8a9411e158eb0cacc1b2a6560e427280523d878",
+            "title": "Britain's Got Talent escapes Ofcom penalty over Amanda Holden's swearing",
+            "url": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49073084",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-15 12:12:33.000000",
+                "date": "2019-07-22 12:16:41.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-15 12:12:33.000000",
+                "date": "2019-07-22 12:16:41.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-15 12:12:33.000000",
+                "date": "2019-07-22 12:16:41.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The note - once called the currency of corrupt elites - gets a makeover with the image of a computer pioneer.<\/p>",
+            "content": "<p>And media regulator Ofcom dismisses more than 1,000 complaints about Love Island.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/business-48962557",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/business-48962557",
-                "pubDate": "Mon, 15 Jul 2019 12:12:33 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49073084",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49073084",
+                "pubDate": "Mon, 22 Jul 2019 12:16:41 GMT"
             },
             "namespaces": []
         }

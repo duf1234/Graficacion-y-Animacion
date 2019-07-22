@@ -2,9 +2,9 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/data/feed/db4fafd482e565e5c014092ff972813d.yaml',
-    'modified' => 1563152195,
+    'modified' => 1563212246,
     'data' => [
-        'last_checked' => 1563152195,
+        'last_checked' => 1563212246,
         'data' => [
             0 => [
                 'title' => 'Grav 1.6 Released!',
@@ -34,7 +34,7 @@ return [
                 'title' => 'RocketTheme\'s Halloween Sale is Going on Right Now',
                 'url' => 'https://getgrav.org/blog/rockettheme-halloween-2018',
                 'date' => 1540792800,
-                'nicetime' => '8 months ago'
+                'nicetime' => '9 months ago'
             ],
             5 => [
                 'title' => 'Git-Sync 2.0',

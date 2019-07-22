@@ -1,5 +1,5 @@
 ---
-title: examen1
+title: 'tareas mes de Julio'
 date: '09:48 01-07-2019'
 content:
     items: '- ''@self.children'''
@@ -20,6 +20,28 @@ feed:
 </head>
 <body>
 
+<h1>Trabajo sobre Aplicaciones</h1>
+<p>NodeJS es un código abierto de JavaScript (razón por la cual se incluye el distintivo JS) que está diseñado para generar aplicaciones web de forma altamente optimizada. Desde su nacimiento hacia el año 2009 ha logrado convertirse en todo un must dentro del desarrollo web.</p>
+<h3>A continuación, les dejare una breve descripción y los links de tres aplicaciones Vuejs, AngularJS y Reactjs</h3>
+ <p> <h4>Vusjs</h4> Es un Framework progresivo, es decir, es un Framework que sirve para consumir interfaz del usuario.</p> 
+ <p>Fue creado por Evan You que trabajaba en Google realizando prototipos y en el core del Framework de Meteor, hasta que pensó en otra forma de hacer una opción más fácil que abarcara las necesidades a la hora de hacer prototipos. Así surgió Vue en el 2014, desde entonces ha tenido una gran evolución y sigue creciendo en su versión 2. </p>  
+ <p>link para aceder a la plataforma<a href="http://thebrayanmina.com:88/">VUEJS</a></p>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5ByelHJGkRLEeSc3Xan_2QvJhDh55VnYn2SgHRctGCbgCIvI">
+  <p> <h4>Angularjs</h4> Es un framework MVC de JavaScript para el Desarrollo Web Front End que permite crear aplicaciones SPA Single-Page Applications.</p> 
+ <p>Su objetivo es aumentar las aplicaciones basadas en navegador con capacidad de Modelo Vista Controlador (MVC), en un esfuerzo para hacer que el desarrollo y las pruebas sean más fáciles. </p>  
+ <p>link para aceder a la plataforma<a href="http://thebrayanmina.com:89/">ANGULARJS</a></p>
+ <img src="https://angular.io/assets/images/logos/angular/angular.png">
+ <p> <h4>Reactjs</h4>Es una librería enfocada en la visualización. Si estamos iniciando un proyecto podemos basarnos en la arquitectura Flux, pero si ya tenemos un proyecto usando un Framework MVC como AngularJS podemos dejar AngularJS como Controlador y que ReactJS se encargue de las vistas. Esto tiene sentido pues ReactJS tiene un performance superior al momento para manipular el DOM, y esto tiene un gran impacto cuando se trata con listas largas que cambian constantemente en nuestra visualización.</p> 
+ <p>link para aceder a la plataforma <a href="http://thebrayanmina.com:92/">REACTJS</a></p>
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+</body>
+</html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1>Trabajo sobre Marcadores</h1>
 <h1>AR.js</h1>
 <p>AR.js es una solución eficiente de Realidad Aumentada en la Web. Se ejecuta al 100% en su navegador web, esto significa que no hay que instalar ninguna aplicación. No hay necesidad de un dispositivo específico, por ejemplo, Tango o iPhone. Se ejecuta en todas las plataformas móviles: Android, iOS11 y Windows móvil. Puedes usarlo con tu propio teléfono.</p>
 <p>A-Frame es muy fácil de usar, así que quería asegurarme de que AR.js estaba funcionando bien con él. Por lo tanto, al combinar A-Frame y AR.js, es fácil para todos crear contenido de AR en la web.</p>
@@ -46,7 +68,7 @@ feed:
 	<script src="pixi.dev.js"></script>
 
 <h1>Examen Juego de Pixi.js</h1>
-<body  background="https://andro4all.com/files/2019/03/Flores.jpg" >
+<body >
     <h3>Disfruta nuestro juego Hecho en PIXIJS</h3>
     <p id="Score">Puntaje: 6 Nivel: 1</p>
      <body>

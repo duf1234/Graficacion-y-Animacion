@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1563225322,
-    "last_checked": 1563225322,
+    "timestamp": 1563810682,
+    "last_checked": 1563810682,
     "amount": 2,
     "items": [
         {
@@ -18,49 +18,53 @@
                 "he",
                 "yi"
             ],
-            "id": "e8277271ea4c2e8808b2bb03d16f16f1948d9530c0d5401e135361da4fa6a86e",
-            "title": "And Then There Was One: Three People Lived in This Village Until Two Were Murdered.",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/europe\/moldova-eastern-europe-population-decline.html?emc=rss&partner=rss",
-            "author": "Patrick Kingsley and Laetitia Vancon",
+            "id": "c9ca88c47f118031093cc15266f835a3bcc2865c859ff41edcb244fb985bd7d5",
+            "title": "Mob Attack at Hong Kong Train Station Heightens Seething Tensions in City",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/hong-kong-protest-mob-attack-yuen-long.html?emc=rss&partner=rss",
+            "author": "Austin Ramzy",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-15 18:37:23.000000",
+                "date": "2019-07-22 15:27:49.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-15 18:37:23.000000",
+                "date": "2019-07-22 15:27:49.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-15 18:37:23.000000",
+                "date": "2019-07-22 15:27:49.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Thirty years ago, 200 people lived in the Moldovan village of Dobrusa. But most have since left or died. After a twin killing in February, there\u2019s only one survivor still standing.<\/p>",
+            "content": "<p>A group of club-wielding attackers apparently targeted people, including a pro-democracy lawmaker, who had participated in antigovernment protests, leaving dozens injured.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Population",
-                "Dobrusa (Moldova)",
-                "Moldova",
-                "Immigration and Emigration",
-                "Eastern Europe"
+                "Demonstrations, Protests and Riots",
+                "Police Brutality, Misconduct and Shootings",
+                "Organized Crime",
+                "MTR Corp",
+                "Hong Kong",
+                "HSBC Holdings PLC.",
+                "Lam, Carrie (1957- )"
             ],
             "xml": {
-                "title": "And Then There Was One: Three People Lived in This Village Until Two Were Murdered.",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/europe\/moldova-eastern-europe-population-decline.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/europe\/moldova-eastern-europe-population-decline.html",
-                "description": "Thirty years ago, 200 people lived in the Moldovan village of Dobrusa. But most have since left or died. After a twin killing in February, there\u2019s only one survivor still standing.",
-                "pubDate": "Mon, 15 Jul 2019 18:37:23 +0000",
+                "title": "Mob Attack at Hong Kong Train Station Heightens Seething Tensions in City",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/hong-kong-protest-mob-attack-yuen-long.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/hong-kong-protest-mob-attack-yuen-long.html",
+                "description": "A group of club-wielding attackers apparently targeted people, including a pro-democracy lawmaker, who had participated in antigovernment protests, leaving dozens injured.",
+                "pubDate": "Mon, 22 Jul 2019 15:27:49 +0000",
                 "category": [
-                    "Population",
-                    "Dobrusa (Moldova)",
-                    "Moldova",
-                    "Immigration and Emigration",
-                    "Eastern Europe"
+                    "Demonstrations, Protests and Riots",
+                    "Police Brutality, Misconduct and Shootings",
+                    "Organized Crime",
+                    "MTR Corp",
+                    "Hong Kong",
+                    "HSBC Holdings PLC.",
+                    "Lam, Carrie (1957- )"
                 ]
             },
             "namespaces": {
@@ -80,63 +84,47 @@
                 "he",
                 "yi"
             ],
-            "id": "fbe751ee0b4af58b4c90e2686708dd0163231bcccca9b61bf6f7f933b0d97b8e",
-            "title": "Flooding Kills Dozens in Nepal as Waters Rise Across Asia",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/asia\/rains-nepal-india-flooding.html?emc=rss&partner=rss",
-            "author": "Bhadra Sharma and Mike Ives",
+            "id": "9499e982002c30b6bcc753fbb7087b40e47dd68d487af673ac4ae1754e438d86",
+            "title": "India Launches Chandrayaan-2 Moon Mission on Second Try",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/chandrayaan-india-moon-launch.html?emc=rss&partner=rss",
+            "author": "Jeffrey Gettleman and Hari Kumar",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-15 09:40:40.000000",
+                "date": "2019-07-22 13:15:21.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-15 09:40:40.000000",
+                "date": "2019-07-22 13:15:21.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-15 09:40:40.000000",
+                "date": "2019-07-22 13:15:21.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The hardest-hit country appeared to be Nepal, where the authorities said 67 people had died. Deaths were also reported in India and Bangladesh.<\/p>",
+            "content": "<p>Last week, scientists abruptly called off the historic launch right before liftoff. A second attempt on Monday was a success.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Floods",
-                "Landslides and Mudslides",
-                "Refugees and Displaced Persons",
-                "Weather",
-                "Rain",
-                "Monsoons",
-                "Assam State (India)",
-                "Bangladesh",
-                "Bihar (India)",
-                "China",
+                "Moon",
+                "Indian Space Research Organization",
                 "India",
-                "Nepal"
+                "Space and Astronomy"
             ],
             "xml": {
-                "title": "Flooding Kills Dozens in Nepal as Waters Rise Across Asia",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/asia\/rains-nepal-india-flooding.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/15\/world\/asia\/rains-nepal-india-flooding.html",
-                "description": "The hardest-hit country appeared to be Nepal, where the authorities said 67 people had died. Deaths were also reported in India and Bangladesh.",
-                "pubDate": "Mon, 15 Jul 2019 09:40:40 +0000",
+                "title": "India Launches Chandrayaan-2 Moon Mission on Second Try",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/chandrayaan-india-moon-launch.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/chandrayaan-india-moon-launch.html",
+                "description": "Last week, scientists abruptly called off the historic launch right before liftoff. A second attempt on Monday was a success.",
+                "pubDate": "Mon, 22 Jul 2019 13:15:21 +0000",
                 "category": [
-                    "Floods",
-                    "Landslides and Mudslides",
-                    "Refugees and Displaced Persons",
-                    "Weather",
-                    "Rain",
-                    "Monsoons",
-                    "Assam State (India)",
-                    "Bangladesh",
-                    "Bihar (India)",
-                    "China",
+                    "Moon",
+                    "Indian Space Research Organization",
                     "India",
-                    "Nepal"
+                    "Space and Astronomy"
                 ]
             },
             "namespaces": {
