@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1563810682,
-    "last_checked": 1563810682,
+    "timestamp": 1564633644,
+    "last_checked": 1564633644,
     "amount": 2,
     "items": [
         {
@@ -18,53 +18,57 @@
                 "he",
                 "yi"
             ],
-            "id": "c9ca88c47f118031093cc15266f835a3bcc2865c859ff41edcb244fb985bd7d5",
-            "title": "Mob Attack at Hong Kong Train Station Heightens Seething Tensions in City",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/hong-kong-protest-mob-attack-yuen-long.html?emc=rss&partner=rss",
-            "author": "Austin Ramzy",
+            "id": "92ad2f0b7a8b942e71f59c503c564fa06b89c8d4c67bf7db7dfb9d5c4a050813",
+            "title": "In Zimbabwe, the Water Taps Run Dry and Worsen \u2018a Nightmare\u2019",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/africa\/zimbabwe-water-crisis.html?emc=rss&partner=rss",
+            "author": "Patrick Kingsley and Jeffrey Moyo",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-22 15:27:49.000000",
+                "date": "2019-07-31 22:15:15.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-22 15:27:49.000000",
+                "date": "2019-07-31 22:15:15.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-22 15:27:49.000000",
+                "date": "2019-07-31 22:15:15.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>A group of club-wielding attackers apparently targeted people, including a pro-democracy lawmaker, who had participated in antigovernment protests, leaving dozens injured.<\/p>",
+            "content": "<p>Most residents in the country\u2019s capital only get running water once a week, leading to serpentine queues at municipal boreholes across the city.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Demonstrations, Protests and Riots",
-                "Police Brutality, Misconduct and Shootings",
-                "Organized Crime",
-                "MTR Corp",
-                "Hong Kong",
-                "HSBC Holdings PLC.",
-                "Lam, Carrie (1957- )"
+                "Politics and Government",
+                "Shortages",
+                "Water",
+                "Drought",
+                "Global Warming",
+                "Mnangagwa, Emmerson",
+                "Mugabe, Robert",
+                "Zimbabwe",
+                "Harare (Zimbabwe)"
             ],
             "xml": {
-                "title": "Mob Attack at Hong Kong Train Station Heightens Seething Tensions in City",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/hong-kong-protest-mob-attack-yuen-long.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/hong-kong-protest-mob-attack-yuen-long.html",
-                "description": "A group of club-wielding attackers apparently targeted people, including a pro-democracy lawmaker, who had participated in antigovernment protests, leaving dozens injured.",
-                "pubDate": "Mon, 22 Jul 2019 15:27:49 +0000",
+                "title": "In Zimbabwe, the Water Taps Run Dry and Worsen \u2018a Nightmare\u2019",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/africa\/zimbabwe-water-crisis.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/africa\/zimbabwe-water-crisis.html",
+                "description": "Most residents in the country\u2019s capital only get running water once a week, leading to serpentine queues at municipal boreholes across the city.",
+                "pubDate": "Wed, 31 Jul 2019 22:15:15 +0000",
                 "category": [
-                    "Demonstrations, Protests and Riots",
-                    "Police Brutality, Misconduct and Shootings",
-                    "Organized Crime",
-                    "MTR Corp",
-                    "Hong Kong",
-                    "HSBC Holdings PLC.",
-                    "Lam, Carrie (1957- )"
+                    "Politics and Government",
+                    "Shortages",
+                    "Water",
+                    "Drought",
+                    "Global Warming",
+                    "Mnangagwa, Emmerson",
+                    "Mugabe, Robert",
+                    "Zimbabwe",
+                    "Harare (Zimbabwe)"
                 ]
             },
             "namespaces": {
@@ -84,47 +88,49 @@
                 "he",
                 "yi"
             ],
-            "id": "9499e982002c30b6bcc753fbb7087b40e47dd68d487af673ac4ae1754e438d86",
-            "title": "India Launches Chandrayaan-2 Moon Mission on Second Try",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/chandrayaan-india-moon-launch.html?emc=rss&partner=rss",
-            "author": "Jeffrey Gettleman and Hari Kumar",
+            "id": "4d02febf6e69646ebaa476c0def455cd48edb85607e0c22a80d8d33bfd6f8898",
+            "title": "Trump Administration Imposes Sanctions on Iran\u2019s Top Diplomat",
+            "url": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/middleeast\/trump-iran-sanctions-zarif.html?emc=rss&partner=rss",
+            "author": "David E. Sanger and Michael Crowley",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-22 13:15:21.000000",
+                "date": "2019-08-01 04:19:40.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-22 13:15:21.000000",
+                "date": "2019-08-01 04:19:40.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-22 13:15:21.000000",
+                "date": "2019-08-01 04:19:40.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Last week, scientists abruptly called off the historic launch right before liftoff. A second attempt on Monday was a success.<\/p>",
+            "content": "<p>Officials described the foreign minister of Iran, Mohammad Javad Zarif, who worked closely with the Obama administration, as being part of a \u201cpropaganda arm.\u201d<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Moon",
-                "Indian Space Research Organization",
-                "India",
-                "Space and Astronomy"
+                "United States International Relations",
+                "Treasury Department",
+                "Mnuchin, Steven T",
+                "Pompeo, Mike",
+                "Zarif, Mohammad Javad"
             ],
             "xml": {
-                "title": "India Launches Chandrayaan-2 Moon Mission on Second Try",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/chandrayaan-india-moon-launch.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/22\/world\/asia\/chandrayaan-india-moon-launch.html",
-                "description": "Last week, scientists abruptly called off the historic launch right before liftoff. A second attempt on Monday was a success.",
-                "pubDate": "Mon, 22 Jul 2019 13:15:21 +0000",
+                "title": "Trump Administration Imposes Sanctions on Iran\u2019s Top Diplomat",
+                "link": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/middleeast\/trump-iran-sanctions-zarif.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/middleeast\/trump-iran-sanctions-zarif.html",
+                "description": "Officials described the foreign minister of Iran, Mohammad Javad Zarif, who worked closely with the Obama administration, as being part of a \u201cpropaganda arm.\u201d",
+                "pubDate": "Thu, 01 Aug 2019 04:19:40 +0000",
                 "category": [
-                    "Moon",
-                    "Indian Space Research Organization",
-                    "India",
-                    "Space and Astronomy"
+                    "United States International Relations",
+                    "Treasury Department",
+                    "Mnuchin, Steven T",
+                    "Pompeo, Mike",
+                    "Zarif, Mohammad Javad"
                 ]
             },
             "namespaces": {

@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1563808161,
-    "last_checked": 1563808161,
+    "timestamp": 1564631245,
+    "last_checked": 1564631245,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "647d7aa0e6740f34fa63745ee42cfb6db883d13f10718636fbd72d6a512e0b9c",
-            "title": "Carl Beech trial: 'VIP abuse' accuser guilty of false claims",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49074879",
+            "id": "b8e92f74133b369299614fe125efad9ef2002970b8cc056420e5f89c8dcedff7",
+            "title": "No-deal Brexit plans to get \u00a32.1bn boost",
+            "url": "https:\/\/www.bbc.co.uk\/news\/business-49183324",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-22 15:01:52.000000",
+                "date": "2019-08-01 00:28:41.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-22 15:01:52.000000",
+                "date": "2019-08-01 00:28:41.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-22 15:01:52.000000",
+                "date": "2019-08-01 00:28:41.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>A convicted paedophile made false allegations of murder and sexual abuse against public figures.<\/p>",
+            "content": "<p>Measures to beef up border security and stockpile medicines are among the preparations being funded.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49074879",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49074879",
-                "pubDate": "Mon, 22 Jul 2019 15:01:52 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/business-49183324",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49183324",
+                "pubDate": "Thu, 01 Aug 2019 00:28:41 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "faf8e216ecdeb277bd346a0001dc13bcfd9c652b479586340d21a8d27dfaa92f",
-            "title": "Iran tanker seizure: Images of captured British-flagged crew released",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49074032",
+            "id": "d6b98b615f3db3fef8239ba797cad3e890c5ddc9547f44aa89c4126cc9321882",
+            "title": "Flooding causes major disruption across north of England",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-manchester-49179114",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-22 14:41:11.000000",
+                "date": "2019-07-31 23:45:35.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-22 14:41:11.000000",
+                "date": "2019-07-31 23:45:35.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-22 14:41:11.000000",
+                "date": "2019-07-31 23:45:35.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Photographs appear to show the crew of the British-flagged vessel being briefed by Iranian officials.<\/p>",
+            "content": "<p>Roads are closed, rail services cancelled and homes flooded as severe downpours cause disruption.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49074032",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49074032",
-                "pubDate": "Mon, 22 Jul 2019 14:41:11 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-manchester-49179114",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-manchester-49179114",
+                "pubDate": "Wed, 31 Jul 2019 23:45:35 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "34c466cef97c4dbc40ff8f28b3338aff7a1d9c9c2879b9bf2cba4bc4e50f4b6a",
-            "title": "Tory leadership race: Alan Duncan resigns as minister",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49069880",
+            "id": "0f9d0f6fec72322d02c0f3bd380aa4387e05e3606f31dac205f59feeac9d76b0",
+            "title": "Zoe Ball loses 780,000 listeners from BBC Radio 2 breakfast show",
+            "url": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49179840",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-22 14:53:27.000000",
+                "date": "2019-08-01 02:18:51.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-22 14:53:27.000000",
+                "date": "2019-08-01 02:18:51.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-22 14:53:27.000000",
+                "date": "2019-08-01 02:18:51.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Sir Alan Duncan presses for Commons vote on whether MPs support Boris Johnson forming a government.<\/p>",
+            "content": "<p>The presenter took over from Chris Evans in January after he left to join Virgin Radio.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49069880",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49069880",
-                "pubDate": "Mon, 22 Jul 2019 14:53:27 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49179840",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49179840",
+                "pubDate": "Thu, 01 Aug 2019 02:18:51 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "97e18b7abe332f0e622e259bf8a9411e158eb0cacc1b2a6560e427280523d878",
-            "title": "Britain's Got Talent escapes Ofcom penalty over Amanda Holden's swearing",
-            "url": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49073084",
+            "id": "9851bfe80ec5c542db740ae02e9e24975c8fb72c625bd8eec6af53f50374c50f",
+            "title": "Prison restaurant serves up cut in reoffending",
+            "url": "https:\/\/www.bbc.co.uk\/news\/education-49150997",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-22 12:16:41.000000",
+                "date": "2019-08-01 02:35:26.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-22 12:16:41.000000",
+                "date": "2019-08-01 02:35:26.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-22 12:16:41.000000",
+                "date": "2019-08-01 02:35:26.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>And media regulator Ofcom dismisses more than 1,000 complaints about Love Island.<\/p>",
+            "content": "<p>A restaurant run by inmates in jail is helping to stop a return to prison, say researchers.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49073084",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49073084",
-                "pubDate": "Mon, 22 Jul 2019 12:16:41 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/education-49150997",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/education-49150997",
+                "pubDate": "Thu, 01 Aug 2019 02:35:26 GMT"
             },
             "namespaces": []
         }
