@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1564633644,
-    "last_checked": 1564633644,
+    "timestamp": 1565051121,
+    "last_checked": 1565051121,
     "amount": 2,
     "items": [
         {
@@ -18,57 +18,63 @@
                 "he",
                 "yi"
             ],
-            "id": "92ad2f0b7a8b942e71f59c503c564fa06b89c8d4c67bf7db7dfb9d5c4a050813",
-            "title": "In Zimbabwe, the Water Taps Run Dry and Worsen \u2018a Nightmare\u2019",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/africa\/zimbabwe-water-crisis.html?emc=rss&partner=rss",
-            "author": "Patrick Kingsley and Jeffrey Moyo",
+            "id": "b1f3ac240bd1fd034726287e57fb2c5db435332a90849c18568be9720aa05063",
+            "title": "India Revokes Kashmir\u2019s Special Status, Raising Fears of Unrest",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/india-pakistan-kashmir-jammu.html?emc=rss&partner=rss",
+            "author": "Jeffrey Gettleman, Suhasini Raj, Kai Schultz and Hari Kumar",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-31 22:15:15.000000",
+                "date": "2019-08-05 22:14:29.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-07-31 22:15:15.000000",
+                "date": "2019-08-05 22:14:29.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-07-31 22:15:15.000000",
+                "date": "2019-08-05 22:14:29.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Most residents in the country\u2019s capital only get running water once a week, leading to serpentine queues at municipal boreholes across the city.<\/p>",
+            "content": "<p>The government announced an end to decades of autonomy in the disputed region, raising tensions in the restive territory and roiling relations with Pakistan.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Politics and Government",
-                "Shortages",
-                "Water",
-                "Drought",
-                "Global Warming",
-                "Mnangagwa, Emmerson",
-                "Mugabe, Robert",
-                "Zimbabwe",
-                "Harare (Zimbabwe)"
+                "Defense and Military Forces",
+                "Secession and Independence Movements",
+                "Hinduism",
+                "Cluster Munitions",
+                "Muslims and Islam",
+                "Bharatiya Janata Party",
+                "Jaish-e-Muhammad",
+                "Abdullah, Omar",
+                "Khan, Imran",
+                "Modi, Narendra",
+                "Gulmarg (Jammu and Kashmir)",
+                "Kashmir and Jammu (India)"
             ],
             "xml": {
-                "title": "In Zimbabwe, the Water Taps Run Dry and Worsen \u2018a Nightmare\u2019",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/africa\/zimbabwe-water-crisis.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/africa\/zimbabwe-water-crisis.html",
-                "description": "Most residents in the country\u2019s capital only get running water once a week, leading to serpentine queues at municipal boreholes across the city.",
-                "pubDate": "Wed, 31 Jul 2019 22:15:15 +0000",
+                "title": "India Revokes Kashmir\u2019s Special Status, Raising Fears of Unrest",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/india-pakistan-kashmir-jammu.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/india-pakistan-kashmir-jammu.html",
+                "description": "The government announced an end to decades of autonomy in the disputed region, raising tensions in the restive territory and roiling relations with Pakistan.",
+                "pubDate": "Mon, 05 Aug 2019 22:14:29 +0000",
                 "category": [
-                    "Politics and Government",
-                    "Shortages",
-                    "Water",
-                    "Drought",
-                    "Global Warming",
-                    "Mnangagwa, Emmerson",
-                    "Mugabe, Robert",
-                    "Zimbabwe",
-                    "Harare (Zimbabwe)"
+                    "Defense and Military Forces",
+                    "Secession and Independence Movements",
+                    "Hinduism",
+                    "Cluster Munitions",
+                    "Muslims and Islam",
+                    "Bharatiya Janata Party",
+                    "Jaish-e-Muhammad",
+                    "Abdullah, Omar",
+                    "Khan, Imran",
+                    "Modi, Narendra",
+                    "Gulmarg (Jammu and Kashmir)",
+                    "Kashmir and Jammu (India)"
                 ]
             },
             "namespaces": {
@@ -88,49 +94,51 @@
                 "he",
                 "yi"
             ],
-            "id": "4d02febf6e69646ebaa476c0def455cd48edb85607e0c22a80d8d33bfd6f8898",
-            "title": "Trump Administration Imposes Sanctions on Iran\u2019s Top Diplomat",
-            "url": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/middleeast\/trump-iran-sanctions-zarif.html?emc=rss&partner=rss",
-            "author": "David E. Sanger and Michael Crowley",
+            "id": "9d2021d4b01590ada6e9e0fce4da27d69c133e6d9ad5926300e1f64cad73ec1d",
+            "title": "Hong Kong Strike Sinks City Into Chaos, and Government Has Little Reply",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/hong-kong-general-strike.html?emc=rss&partner=rss",
+            "author": "Austin Ramzy, Mike Ives and Tiffany May",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-01 04:19:40.000000",
+                "date": "2019-08-05 18:13:20.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-01 04:19:40.000000",
+                "date": "2019-08-05 18:13:20.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-01 04:19:40.000000",
+                "date": "2019-08-05 18:13:20.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Officials described the foreign minister of Iran, Mohammad Javad Zarif, who worked closely with the Obama administration, as being part of a \u201cpropaganda arm.\u201d<\/p>",
+            "content": "<p>The city\u2019s top official, Carrie Lam, warned of \u201cvery precarious circumstances\u201d and accused protesters of challenging Chinese sovereignty over Hong Kong.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "United States International Relations",
-                "Treasury Department",
-                "Mnuchin, Steven T",
-                "Pompeo, Mike",
-                "Zarif, Mohammad Javad"
+                "Hong Kong",
+                "Demonstrations, Protests and Riots",
+                "Strikes",
+                "China",
+                "Lam, Carrie (1957- )",
+                "Politics and Government"
             ],
             "xml": {
-                "title": "Trump Administration Imposes Sanctions on Iran\u2019s Top Diplomat",
-                "link": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/middleeast\/trump-iran-sanctions-zarif.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/07\/31\/world\/middleeast\/trump-iran-sanctions-zarif.html",
-                "description": "Officials described the foreign minister of Iran, Mohammad Javad Zarif, who worked closely with the Obama administration, as being part of a \u201cpropaganda arm.\u201d",
-                "pubDate": "Thu, 01 Aug 2019 04:19:40 +0000",
+                "title": "Hong Kong Strike Sinks City Into Chaos, and Government Has Little Reply",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/hong-kong-general-strike.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/hong-kong-general-strike.html",
+                "description": "The city\u2019s top official, Carrie Lam, warned of \u201cvery precarious circumstances\u201d and accused protesters of challenging Chinese sovereignty over Hong Kong.",
+                "pubDate": "Mon, 05 Aug 2019 18:13:20 +0000",
                 "category": [
-                    "United States International Relations",
-                    "Treasury Department",
-                    "Mnuchin, Steven T",
-                    "Pompeo, Mike",
-                    "Zarif, Mohammad Javad"
+                    "Hong Kong",
+                    "Demonstrations, Protests and Riots",
+                    "Strikes",
+                    "China",
+                    "Lam, Carrie (1957- )",
+                    "Politics and Government"
                 ]
             },
             "namespaces": {

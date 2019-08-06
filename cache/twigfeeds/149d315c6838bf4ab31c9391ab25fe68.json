@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1564631245,
-    "last_checked": 1564631245,
+    "timestamp": 1565048252,
+    "last_checked": 1565048252,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "b8e92f74133b369299614fe125efad9ef2002970b8cc056420e5f89c8dcedff7",
-            "title": "No-deal Brexit plans to get \u00a32.1bn boost",
-            "url": "https:\/\/www.bbc.co.uk\/news\/business-49183324",
+            "id": "dfa02f59386ae2275f6dd1a2f4adef29954204345df3ab3debf11fc6ffff3e82",
+            "title": "EU officials: No basis for 'meaningful' UK Brexit talks",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49240809",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-01 00:28:41.000000",
+                "date": "2019-08-05 21:31:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-01 00:28:41.000000",
+                "date": "2019-08-05 21:31:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-01 00:28:41.000000",
+                "date": "2019-08-05 21:31:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Measures to beef up border security and stockpile medicines are among the preparations being funded.<\/p>",
+            "content": "<p>The bloc says it cannot accept any changes to the current withdrawal agreement to stop a &quot;no deal&quot;.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/business-49183324",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49183324",
-                "pubDate": "Thu, 01 Aug 2019 00:28:41 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49240809",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49240809",
+                "pubDate": "Mon, 05 Aug 2019 21:31:43 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "d6b98b615f3db3fef8239ba797cad3e890c5ddc9547f44aa89c4126cc9321882",
-            "title": "Flooding causes major disruption across north of England",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-manchester-49179114",
+            "id": "98b6e4549254e234082676b700899940b521601cabdce986679eb56361314c05",
+            "title": "British Airways flight evacuated after smoke filled cabin",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49243757",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-07-31 23:45:35.000000",
+                "date": "2019-08-05 23:17:01.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-07-31 23:45:35.000000",
+                "date": "2019-08-05 23:17:01.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-07-31 23:45:35.000000",
+                "date": "2019-08-05 23:17:01.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Roads are closed, rail services cancelled and homes flooded as severe downpours cause disruption.<\/p>",
+            "content": "<p>Passengers flying from London to Valencia are told to &quot;run as far away from the plane as possible&quot;.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-manchester-49179114",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-manchester-49179114",
-                "pubDate": "Wed, 31 Jul 2019 23:45:35 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49243757",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49243757",
+                "pubDate": "Mon, 05 Aug 2019 23:17:01 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "0f9d0f6fec72322d02c0f3bd380aa4387e05e3606f31dac205f59feeac9d76b0",
-            "title": "Zoe Ball loses 780,000 listeners from BBC Radio 2 breakfast show",
-            "url": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49179840",
+            "id": "2c20fba6dd203b3eae568771369437f61be196862c7bef092e6846209158e43c",
+            "title": "Tate Modern: Boy 'thrown' off building was French tourist",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49232807",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-01 02:18:51.000000",
+                "date": "2019-08-05 16:49:47.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-01 02:18:51.000000",
+                "date": "2019-08-05 16:49:47.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-01 02:18:51.000000",
+                "date": "2019-08-05 16:49:47.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The presenter took over from Chris Evans in January after he left to join Virgin Radio.<\/p>",
+            "content": "<p>The six-year-old boy was visiting the art gallery in London with his family, police say.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49179840",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-49179840",
-                "pubDate": "Thu, 01 Aug 2019 02:18:51 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49232807",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49232807",
+                "pubDate": "Mon, 05 Aug 2019 16:49:47 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "9851bfe80ec5c542db740ae02e9e24975c8fb72c625bd8eec6af53f50374c50f",
-            "title": "Prison restaurant serves up cut in reoffending",
-            "url": "https:\/\/www.bbc.co.uk\/news\/education-49150997",
+            "id": "2bdf4da4e15a4991592b3fb504aaa07f7c5371e607113a97467cca5af2669799",
+            "title": "Nicola Sturgeon points to 'growing urgency' for Scottish independence",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49243355",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-01 02:35:26.000000",
+                "date": "2019-08-05 19:23:21.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-01 02:35:26.000000",
+                "date": "2019-08-05 19:23:21.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-01 02:35:26.000000",
+                "date": "2019-08-05 19:23:21.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>A restaurant run by inmates in jail is helping to stop a return to prison, say researchers.<\/p>",
+            "content": "<p>Scotland&#039;s first minister was speaking on the day a poll suggested a majority of Scots were now in favour of independence.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/education-49150997",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/education-49150997",
-                "pubDate": "Thu, 01 Aug 2019 02:35:26 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49243355",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49243355",
+                "pubDate": "Mon, 05 Aug 2019 19:23:21 GMT"
             },
             "namespaces": []
         }
