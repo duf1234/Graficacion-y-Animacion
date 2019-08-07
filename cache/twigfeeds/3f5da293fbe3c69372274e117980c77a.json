@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565051121,
-    "last_checked": 1565051121,
+    "timestamp": 1565190423,
+    "last_checked": 1565190423,
     "amount": 2,
     "items": [
         {
@@ -18,63 +18,59 @@
                 "he",
                 "yi"
             ],
-            "id": "b1f3ac240bd1fd034726287e57fb2c5db435332a90849c18568be9720aa05063",
-            "title": "India Revokes Kashmir\u2019s Special Status, Raising Fears of Unrest",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/india-pakistan-kashmir-jammu.html?emc=rss&partner=rss",
-            "author": "Jeffrey Gettleman, Suhasini Raj, Kai Schultz and Hari Kumar",
+            "id": "947eab22f1925404d767985ebe33e31cb31212baadc2863a02592f62c4e7f5af",
+            "title": "As Scotland\u2019s \u2018Trainspotting\u2019 Generation Ages, the Dead Pile Up",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/europe\/scotland-heroin-deaths.html?emc=rss&partner=rss",
+            "author": "Allison McCann and Mary Turner",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-05 22:14:29.000000",
+                "date": "2019-08-07 14:50:01.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-05 22:14:29.000000",
+                "date": "2019-08-07 14:50:01.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-05 22:14:29.000000",
+                "date": "2019-08-07 14:50:01.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The government announced an end to decades of autonomy in the disputed region, raising tensions in the restive territory and roiling relations with Pakistan.<\/p>",
+            "content": "<p>What happens as opioid abusers hit middle age? \u201cWhat your body tolerates at 18 it doesn\u2019t tolerate at 38 or 48.\u201d<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Defense and Military Forces",
-                "Secession and Independence Movements",
-                "Hinduism",
-                "Cluster Munitions",
-                "Muslims and Islam",
-                "Bharatiya Janata Party",
-                "Jaish-e-Muhammad",
-                "Abdullah, Omar",
-                "Khan, Imran",
-                "Modi, Narendra",
-                "Gulmarg (Jammu and Kashmir)",
-                "Kashmir and Jammu (India)"
+                "Scotland",
+                "Drug Abuse and Traffic",
+                "Deaths (Fatalities)",
+                "Heroin",
+                "Opioids and Opiates",
+                "Therapy and Rehabilitation",
+                "Politics and Government",
+                "National Health Service",
+                "Glasgow (Scotland)",
+                "Great Britain"
             ],
             "xml": {
-                "title": "India Revokes Kashmir\u2019s Special Status, Raising Fears of Unrest",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/india-pakistan-kashmir-jammu.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/india-pakistan-kashmir-jammu.html",
-                "description": "The government announced an end to decades of autonomy in the disputed region, raising tensions in the restive territory and roiling relations with Pakistan.",
-                "pubDate": "Mon, 05 Aug 2019 22:14:29 +0000",
+                "title": "As Scotland\u2019s \u2018Trainspotting\u2019 Generation Ages, the Dead Pile Up",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/europe\/scotland-heroin-deaths.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/europe\/scotland-heroin-deaths.html",
+                "description": "What happens as opioid abusers hit middle age? \u201cWhat your body tolerates at 18 it doesn\u2019t tolerate at 38 or 48.\u201d",
+                "pubDate": "Wed, 07 Aug 2019 14:50:01 +0000",
                 "category": [
-                    "Defense and Military Forces",
-                    "Secession and Independence Movements",
-                    "Hinduism",
-                    "Cluster Munitions",
-                    "Muslims and Islam",
-                    "Bharatiya Janata Party",
-                    "Jaish-e-Muhammad",
-                    "Abdullah, Omar",
-                    "Khan, Imran",
-                    "Modi, Narendra",
-                    "Gulmarg (Jammu and Kashmir)",
-                    "Kashmir and Jammu (India)"
+                    "Scotland",
+                    "Drug Abuse and Traffic",
+                    "Deaths (Fatalities)",
+                    "Heroin",
+                    "Opioids and Opiates",
+                    "Therapy and Rehabilitation",
+                    "Politics and Government",
+                    "National Health Service",
+                    "Glasgow (Scotland)",
+                    "Great Britain"
                 ]
             },
             "namespaces": {
@@ -94,51 +90,55 @@
                 "he",
                 "yi"
             ],
-            "id": "9d2021d4b01590ada6e9e0fce4da27d69c133e6d9ad5926300e1f64cad73ec1d",
-            "title": "Hong Kong Strike Sinks City Into Chaos, and Government Has Little Reply",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/hong-kong-general-strike.html?emc=rss&partner=rss",
-            "author": "Austin Ramzy, Mike Ives and Tiffany May",
+            "id": "1908f9d9ff9e7cc5a1b2888db2a49124d799532cab8a8f101f68e9dafa9c35a2",
+            "title": "Pakistan Vows to Punish India for Kashmir Move",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/asia\/pakistan-kashmir-india.html?emc=rss&partner=rss",
+            "author": "Kai Schultz and Suhasini Raj",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-05 18:13:20.000000",
+                "date": "2019-08-07 13:48:11.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-05 18:13:20.000000",
+                "date": "2019-08-07 13:48:11.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-05 18:13:20.000000",
+                "date": "2019-08-07 13:48:11.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The city\u2019s top official, Carrie Lam, warned of \u201cvery precarious circumstances\u201d and accused protesters of challenging Chinese sovereignty over Hong Kong.<\/p>",
+            "content": "<p>The science and technology minister called the Indian government a \u201cfascist regime\u201d and said another war was not off the table.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Hong Kong",
-                "Demonstrations, Protests and Riots",
-                "Strikes",
-                "China",
-                "Lam, Carrie (1957- )",
-                "Politics and Government"
+                "Pakistan",
+                "Kashmir and Jammu (India)",
+                "International Relations",
+                "India",
+                "Defense and Military Forces",
+                "Hinduism",
+                "Legislatures and Parliaments",
+                "Bharatiya Janata Party"
             ],
             "xml": {
-                "title": "Hong Kong Strike Sinks City Into Chaos, and Government Has Little Reply",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/hong-kong-general-strike.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/05\/world\/asia\/hong-kong-general-strike.html",
-                "description": "The city\u2019s top official, Carrie Lam, warned of \u201cvery precarious circumstances\u201d and accused protesters of challenging Chinese sovereignty over Hong Kong.",
-                "pubDate": "Mon, 05 Aug 2019 18:13:20 +0000",
+                "title": "Pakistan Vows to Punish India for Kashmir Move",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/asia\/pakistan-kashmir-india.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/asia\/pakistan-kashmir-india.html",
+                "description": "The science and technology minister called the Indian government a \u201cfascist regime\u201d and said another war was not off the table.",
+                "pubDate": "Wed, 07 Aug 2019 13:48:11 +0000",
                 "category": [
-                    "Hong Kong",
-                    "Demonstrations, Protests and Riots",
-                    "Strikes",
-                    "China",
-                    "Lam, Carrie (1957- )",
-                    "Politics and Government"
+                    "Pakistan",
+                    "Kashmir and Jammu (India)",
+                    "International Relations",
+                    "India",
+                    "Defense and Military Forces",
+                    "Hinduism",
+                    "Legislatures and Parliaments",
+                    "Bharatiya Janata Party"
                 ]
             },
             "namespaces": {

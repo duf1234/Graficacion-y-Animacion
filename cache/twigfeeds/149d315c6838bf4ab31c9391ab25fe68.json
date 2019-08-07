@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565051855,
-    "last_checked": 1565051855,
+    "timestamp": 1565189345,
+    "last_checked": 1565189345,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "dfa02f59386ae2275f6dd1a2f4adef29954204345df3ab3debf11fc6ffff3e82",
-            "title": "EU officials: No basis for 'meaningful' UK Brexit talks",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49240809",
+            "id": "0dd3d8ca196f43bd9d4e43860717734f851d02ba961625506057865c7d65daac",
+            "title": "Whaley Bridge dam: Evacuated residents can return home",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-derbyshire-49261977",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-05 21:31:43.000000",
+                "date": "2019-08-07 14:40:28.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-05 21:31:43.000000",
+                "date": "2019-08-07 14:40:28.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-05 21:31:43.000000",
+                "date": "2019-08-07 14:40:28.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The bloc says it cannot accept any changes to the current withdrawal agreement to stop a &quot;no deal&quot;.<\/p>",
+            "content": "<p>About 1,500 people were evacuated last week after heavy rain affected Toddbrook Reservoir.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49240809",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49240809",
-                "pubDate": "Mon, 05 Aug 2019 21:31:43 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-derbyshire-49261977",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-derbyshire-49261977",
+                "pubDate": "Wed, 07 Aug 2019 14:40:28 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "98b6e4549254e234082676b700899940b521601cabdce986679eb56361314c05",
-            "title": "British Airways flight evacuated after smoke filled cabin",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49243757",
+            "id": "6904d07ab99b7ca28d334d6a5dc46553aef3b0e4eac8f515cf643a16ed4ba48f",
+            "title": "Missing Nora Quoirin: Malaysia police 'rule nothing out' in search",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49264715",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-05 23:17:01.000000",
+                "date": "2019-08-07 14:12:39.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-05 23:17:01.000000",
+                "date": "2019-08-07 14:12:39.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-05 23:17:01.000000",
+                "date": "2019-08-07 14:12:39.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Passengers flying from London to Valencia are told to &quot;run as far away from the plane as possible&quot;.<\/p>",
+            "content": "<p>Nora Quoirin&#039;s grandfather says her disappearance on holiday in Malaysia is &quot;extremely mysterious&quot;.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49243757",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49243757",
-                "pubDate": "Mon, 05 Aug 2019 23:17:01 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49264715",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49264715",
+                "pubDate": "Wed, 07 Aug 2019 14:12:39 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "2c20fba6dd203b3eae568771369437f61be196862c7bef092e6846209158e43c",
-            "title": "Tate Modern: Boy 'thrown' off building was French tourist",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49232807",
+            "id": "029e8fe2d1ea7cf1011c0c65ba74421dc2e7e11e54ffc18339a68308a207ec4e",
+            "title": "Brexit: Food industry seeks no-deal competition waiver",
+            "url": "https:\/\/www.bbc.co.uk\/news\/business-49258852",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-05 16:49:47.000000",
+                "date": "2019-08-07 09:21:05.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-05 16:49:47.000000",
+                "date": "2019-08-07 09:21:05.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-05 16:49:47.000000",
+                "date": "2019-08-07 09:21:05.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The six-year-old boy was visiting the art gallery in London with his family, police say.<\/p>",
+            "content": "<p>UK firms urge the government to relax rules to allow them to work together to supply food after Brexit.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49232807",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49232807",
-                "pubDate": "Mon, 05 Aug 2019 16:49:47 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/business-49258852",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49258852",
+                "pubDate": "Wed, 07 Aug 2019 09:21:05 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "2bdf4da4e15a4991592b3fb504aaa07f7c5371e607113a97467cca5af2669799",
-            "title": "Nicola Sturgeon points to 'growing urgency' for Scottish independence",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49243355",
+            "id": "3566cff38d312a192b4c29c9829a65575bc688dba6befce415661d0f9c0e749a",
+            "title": "Ayia Napa: 'False rape claim' case adjourned after lawyer resigns",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49262995",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-05 19:23:21.000000",
+                "date": "2019-08-07 10:38:20.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-05 19:23:21.000000",
+                "date": "2019-08-07 10:38:20.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-05 19:23:21.000000",
+                "date": "2019-08-07 10:38:20.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Scotland&#039;s first minister was speaking on the day a poll suggested a majority of Scots were now in favour of independence.<\/p>",
+            "content": "<p>The lawyer representing a 19-year-old British woman cites a &quot;serious disagreement&quot; with his client.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49243355",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49243355",
-                "pubDate": "Mon, 05 Aug 2019 19:23:21 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49262995",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49262995",
+                "pubDate": "Wed, 07 Aug 2019 10:38:20 GMT"
             },
             "namespaces": []
         }
