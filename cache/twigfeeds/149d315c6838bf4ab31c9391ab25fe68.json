@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565580683,
-    "last_checked": 1565580683,
+    "timestamp": 1565620420,
+    "last_checked": 1565620420,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "26f908e2ae448fbe9a863028a18ba4240eb43817663c472bf6debfc978f1bd53",
-            "title": "Law and order: Extra \u00a385m for CPS to tackle violent crime",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49314259",
+            "id": "f29948a5d6d7791c1779296227869f8294bf451ec65abbdf7b119707468fe4c7",
+            "title": "Gambling companies see huge rise in complaints",
+            "url": "https:\/\/www.bbc.co.uk\/news\/business-49284169",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-11 23:15:43.000000",
+                "date": "2019-08-12 07:03:24.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-11 23:15:43.000000",
+                "date": "2019-08-12 07:03:24.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-11 23:15:43.000000",
+                "date": "2019-08-12 07:03:24.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>A review into sentencing is also promised as Downing Street continues its focus on law and order.<\/p>",
+            "content": "<p>Complaints about UK betting companies have increased almost 5,000% in the past five years.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49314259",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49314259",
-                "pubDate": "Sun, 11 Aug 2019 23:15:43 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/business-49284169",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49284169",
+                "pubDate": "Mon, 12 Aug 2019 07:03:24 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "743109609baa1437c9ddf62d7dda5ea2369a1d2df75369ac37c6a7add9f1d892",
-            "title": "High Streets hit as shop vacancy rate worst since 2015",
-            "url": "https:\/\/www.bbc.co.uk\/news\/business-49311298",
+            "id": "a8c875da0253d46fd03b04038a261a14a4ef16f7cadf6f9354469ed3d210df63",
+            "title": "Drug crime mapped: Gangs operating away from home cities",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48343369",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-11 23:05:32.000000",
+                "date": "2019-08-12 06:13:26.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-11 23:05:32.000000",
+                "date": "2019-08-12 06:13:26.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-11 23:05:32.000000",
+                "date": "2019-08-12 06:13:26.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Empty shops rise in July, while visitor numbers continue to fall, the latest industry figures show.<\/p>",
+            "content": "<p>Recorded drug crime is increasing in many small towns and villages even as it falls significantly in city centres, analysis by the BBC finds.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/business-49311298",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49311298",
-                "pubDate": "Sun, 11 Aug 2019 23:05:32 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48343369",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48343369",
+                "pubDate": "Mon, 12 Aug 2019 06:13:26 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "46f70419a35ed787b0822f7de2cb8aaabc90a7cc2a77652a8717a89a6f8248fe",
-            "title": "Grouse shooting: Labour calls for review amid habitat concerns",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49315258",
+            "id": "2ae6f2f1917ce2743e3cde571a0834567324a041d9dd12fa1a3d5727be2f0134",
+            "title": "Meghan has made Prince Harry less popular, says Farage",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49317656",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 01:02:55.000000",
+                "date": "2019-08-12 12:00:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-12 01:02:55.000000",
+                "date": "2019-08-12 12:00:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-12 01:02:55.000000",
+                "date": "2019-08-12 12:00:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Labour raises environmental concerns ahead of the four-month grouse shooting season from Monday.<\/p>",
+            "content": "<p>The Brexit Party leader said Prince Harry&#039;s popularity has &quot;fallen off a cliff&quot; since he met Meghan.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49315258",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49315258",
-                "pubDate": "Mon, 12 Aug 2019 01:02:55 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49317656",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49317656",
+                "pubDate": "Mon, 12 Aug 2019 12:00:43 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "668923f2a9bc61fbf2a82fdabfe15ac45dfa6edbb4a9ae81c612458451adb517",
-            "title": "Attempted murder charge over PC run over by own car in Moseley",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-birmingham-49314927",
+            "id": "2d8afb48e9c2fc11adebe43f05309de2dcddae5dde190590aeae7b5b36f4ac41",
+            "title": "Brexit: Caroline Lucas criticised over all-female cabinet plan",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49321430",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-11 21:29:23.000000",
+                "date": "2019-08-12 14:06:50.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-11 21:29:23.000000",
+                "date": "2019-08-12 14:06:50.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-11 21:29:23.000000",
+                "date": "2019-08-12 14:06:50.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The traffic officer had been attempting to pull over a suspected car thief in Birmingham.<\/p>",
+            "content": "<p>Caroline Lucas defends her plan aimed at stopping a no-deal Brexit, saying women are less tribal.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-birmingham-49314927",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-birmingham-49314927",
-                "pubDate": "Sun, 11 Aug 2019 21:29:23 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49321430",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49321430",
+                "pubDate": "Mon, 12 Aug 2019 14:06:50 GMT"
             },
             "namespaces": []
         }

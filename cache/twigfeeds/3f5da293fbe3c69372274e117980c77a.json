@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565582124,
-    "last_checked": 1565582124,
+    "timestamp": 1565622312,
+    "last_checked": 1565622312,
     "amount": 2,
     "items": [
         {
@@ -18,61 +18,53 @@
                 "he",
                 "yi"
             ],
-            "id": "a0020d1ab7a1baa6ff779b482872867424ea9f8594212a5dee63196093db7765",
-            "title": "Inside Kashmir, Cut Off From the World: \u2018A Living Hell\u2019 of Anger and Fear",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/10\/world\/asia\/kashmir-india-pakistan.html?emc=rss&partner=rss",
-            "author": "Sameer Yasir, Suhasini Raj and Jeffrey Gettleman",
+            "id": "b7cbef367f8e4709ba85cec09f45bdac70e5677a50a4909b6c811c02744b8cba",
+            "title": "Over 150 Flights Canceled as Hong Kong Airport Is Flooded by Protesters",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest-cancellations.html?emc=rss&partner=rss",
+            "author": "Austin Ramzy and Gerry Mullany",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-11 04:09:57.000000",
+                "date": "2019-08-12 12:27:43.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-11 04:09:57.000000",
+                "date": "2019-08-12 12:27:43.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-11 04:09:57.000000",
+                "date": "2019-08-12 12:27:43.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>A firsthand look inside Kashmir, the contested region the Indian government has all but cut off from the outside world, found a population that is feeling besieged and furious.<\/p>",
+            "content": "<p>Hong Kong International Airport, one of the world\u2019s busiest, was brought to a near halt by antigovernment demonstrators angered by police violence.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Kashmir and Jammu (India)",
-                "India",
-                "Pakistan",
                 "Demonstrations, Protests and Riots",
-                "Modi, Narendra",
-                "Politics and Government",
-                "Defense and Military Forces",
-                "Hinduism",
-                "Muslims and Islam",
-                "Kashmir Valley (Kashmir and Jammu)",
-                "Srinagar (Jammu and Kashmir)"
+                "Delays (Transportation)",
+                "Airlines and Airplanes",
+                "Hong Kong",
+                "Airports",
+                "Stations and Terminals (Passenger)",
+                "Far East, South and Southeast Asia and Pacific Areas"
             ],
             "xml": {
-                "title": "Inside Kashmir, Cut Off From the World: \u2018A Living Hell\u2019 of Anger and Fear",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/10\/world\/asia\/kashmir-india-pakistan.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/10\/world\/asia\/kashmir-india-pakistan.html",
-                "description": "A firsthand look inside Kashmir, the contested region the Indian government has all but cut off from the outside world, found a population that is feeling besieged and furious.",
-                "pubDate": "Sun, 11 Aug 2019 04:09:57 +0000",
+                "title": "Over 150 Flights Canceled as Hong Kong Airport Is Flooded by Protesters",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest-cancellations.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest-cancellations.html",
+                "description": "Hong Kong International Airport, one of the world\u2019s busiest, was brought to a near halt by antigovernment demonstrators angered by police violence.",
+                "pubDate": "Mon, 12 Aug 2019 12:27:43 +0000",
                 "category": [
-                    "Kashmir and Jammu (India)",
-                    "India",
-                    "Pakistan",
                     "Demonstrations, Protests and Riots",
-                    "Modi, Narendra",
-                    "Politics and Government",
-                    "Defense and Military Forces",
-                    "Hinduism",
-                    "Muslims and Islam",
-                    "Kashmir Valley (Kashmir and Jammu)",
-                    "Srinagar (Jammu and Kashmir)"
+                    "Delays (Transportation)",
+                    "Airlines and Airplanes",
+                    "Hong Kong",
+                    "Airports",
+                    "Stations and Terminals (Passenger)",
+                    "Far East, South and Southeast Asia and Pacific Areas"
                 ]
             },
             "namespaces": {
@@ -92,47 +84,57 @@
                 "he",
                 "yi"
             ],
-            "id": "c94aaf260488aa59cbe8888e1a6523a00a19bd6c27242281c7fadaa4d88c9df9",
-            "title": "Hong Kong Convulsed by Protest as Police Fire Tear Gas Into Subway",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/asia\/hong-kong-protest.html?emc=rss&partner=rss",
-            "author": "Mike Ives, Ezra Cheung and Katherine Li",
+            "id": "f258e263a5d47c91052f6db66aa14511cacc07b3f3d6848768559a454dd0bb7d",
+            "title": "How YouTube Radicalized Brazil",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/americas\/youtube-brazil.html?emc=rss&partner=rss",
+            "author": "Max Fisher and Amanda Taub",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-11 17:03:32.000000",
+                "date": "2019-08-12 02:30:15.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-11 17:03:32.000000",
+                "date": "2019-08-12 02:30:15.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-11 17:03:32.000000",
+                "date": "2019-08-12 02:30:15.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The authorities accused protesters of attacking officers with bricks and gasoline bombs, as the protests continued for 10 consecutive weekends.<\/p>",
+            "content": "<p>YouTube built its business on keeping users hooked. This has been a gift to extremist groups. An investigation in the company\u2019s second-biggest market found serious consequences.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Hong Kong",
-                "Demonstrations, Protests and Riots",
-                "Politics and Government",
-                "China"
+                "Artificial Intelligence",
+                "Zika Virus",
+                "Fringe Groups and Movements",
+                "Computers and the Internet",
+                "Rumors and Misinformation",
+                "YouTube.com",
+                "Bolsonaro, Jair (1955- )",
+                "Brazil",
+                "The Weekly (TV Program)"
             ],
             "xml": {
-                "title": "Hong Kong Convulsed by Protest as Police Fire Tear Gas Into Subway",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/asia\/hong-kong-protest.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/asia\/hong-kong-protest.html",
-                "description": "The authorities accused protesters of attacking officers with bricks and gasoline bombs, as the protests continued for 10 consecutive weekends.",
-                "pubDate": "Sun, 11 Aug 2019 17:03:32 +0000",
+                "title": "How YouTube Radicalized Brazil",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/americas\/youtube-brazil.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/americas\/youtube-brazil.html",
+                "description": "YouTube built its business on keeping users hooked. This has been a gift to extremist groups. An investigation in the company\u2019s second-biggest market found serious consequences.",
+                "pubDate": "Mon, 12 Aug 2019 02:30:15 +0000",
                 "category": [
-                    "Hong Kong",
-                    "Demonstrations, Protests and Riots",
-                    "Politics and Government",
-                    "China"
+                    "Artificial Intelligence",
+                    "Zika Virus",
+                    "Fringe Groups and Movements",
+                    "Computers and the Internet",
+                    "Rumors and Misinformation",
+                    "YouTube.com",
+                    "Bolsonaro, Jair (1955- )",
+                    "Brazil",
+                    "The Weekly (TV Program)"
                 ]
             },
             "namespaces": {
