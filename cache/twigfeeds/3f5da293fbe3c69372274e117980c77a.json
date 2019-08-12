@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565190423,
-    "last_checked": 1565190423,
+    "timestamp": 1565582124,
+    "last_checked": 1565582124,
     "amount": 2,
     "items": [
         {
@@ -18,59 +18,61 @@
                 "he",
                 "yi"
             ],
-            "id": "947eab22f1925404d767985ebe33e31cb31212baadc2863a02592f62c4e7f5af",
-            "title": "As Scotland\u2019s \u2018Trainspotting\u2019 Generation Ages, the Dead Pile Up",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/europe\/scotland-heroin-deaths.html?emc=rss&partner=rss",
-            "author": "Allison McCann and Mary Turner",
+            "id": "a0020d1ab7a1baa6ff779b482872867424ea9f8594212a5dee63196093db7765",
+            "title": "Inside Kashmir, Cut Off From the World: \u2018A Living Hell\u2019 of Anger and Fear",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/10\/world\/asia\/kashmir-india-pakistan.html?emc=rss&partner=rss",
+            "author": "Sameer Yasir, Suhasini Raj and Jeffrey Gettleman",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-07 14:50:01.000000",
+                "date": "2019-08-11 04:09:57.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-07 14:50:01.000000",
+                "date": "2019-08-11 04:09:57.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-07 14:50:01.000000",
+                "date": "2019-08-11 04:09:57.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>What happens as opioid abusers hit middle age? \u201cWhat your body tolerates at 18 it doesn\u2019t tolerate at 38 or 48.\u201d<\/p>",
+            "content": "<p>A firsthand look inside Kashmir, the contested region the Indian government has all but cut off from the outside world, found a population that is feeling besieged and furious.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Scotland",
-                "Drug Abuse and Traffic",
-                "Deaths (Fatalities)",
-                "Heroin",
-                "Opioids and Opiates",
-                "Therapy and Rehabilitation",
+                "Kashmir and Jammu (India)",
+                "India",
+                "Pakistan",
+                "Demonstrations, Protests and Riots",
+                "Modi, Narendra",
                 "Politics and Government",
-                "National Health Service",
-                "Glasgow (Scotland)",
-                "Great Britain"
+                "Defense and Military Forces",
+                "Hinduism",
+                "Muslims and Islam",
+                "Kashmir Valley (Kashmir and Jammu)",
+                "Srinagar (Jammu and Kashmir)"
             ],
             "xml": {
-                "title": "As Scotland\u2019s \u2018Trainspotting\u2019 Generation Ages, the Dead Pile Up",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/europe\/scotland-heroin-deaths.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/europe\/scotland-heroin-deaths.html",
-                "description": "What happens as opioid abusers hit middle age? \u201cWhat your body tolerates at 18 it doesn\u2019t tolerate at 38 or 48.\u201d",
-                "pubDate": "Wed, 07 Aug 2019 14:50:01 +0000",
+                "title": "Inside Kashmir, Cut Off From the World: \u2018A Living Hell\u2019 of Anger and Fear",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/10\/world\/asia\/kashmir-india-pakistan.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/10\/world\/asia\/kashmir-india-pakistan.html",
+                "description": "A firsthand look inside Kashmir, the contested region the Indian government has all but cut off from the outside world, found a population that is feeling besieged and furious.",
+                "pubDate": "Sun, 11 Aug 2019 04:09:57 +0000",
                 "category": [
-                    "Scotland",
-                    "Drug Abuse and Traffic",
-                    "Deaths (Fatalities)",
-                    "Heroin",
-                    "Opioids and Opiates",
-                    "Therapy and Rehabilitation",
+                    "Kashmir and Jammu (India)",
+                    "India",
+                    "Pakistan",
+                    "Demonstrations, Protests and Riots",
+                    "Modi, Narendra",
                     "Politics and Government",
-                    "National Health Service",
-                    "Glasgow (Scotland)",
-                    "Great Britain"
+                    "Defense and Military Forces",
+                    "Hinduism",
+                    "Muslims and Islam",
+                    "Kashmir Valley (Kashmir and Jammu)",
+                    "Srinagar (Jammu and Kashmir)"
                 ]
             },
             "namespaces": {
@@ -90,55 +92,47 @@
                 "he",
                 "yi"
             ],
-            "id": "1908f9d9ff9e7cc5a1b2888db2a49124d799532cab8a8f101f68e9dafa9c35a2",
-            "title": "Pakistan Vows to Punish India for Kashmir Move",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/asia\/pakistan-kashmir-india.html?emc=rss&partner=rss",
-            "author": "Kai Schultz and Suhasini Raj",
+            "id": "c94aaf260488aa59cbe8888e1a6523a00a19bd6c27242281c7fadaa4d88c9df9",
+            "title": "Hong Kong Convulsed by Protest as Police Fire Tear Gas Into Subway",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/asia\/hong-kong-protest.html?emc=rss&partner=rss",
+            "author": "Mike Ives, Ezra Cheung and Katherine Li",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-07 13:48:11.000000",
+                "date": "2019-08-11 17:03:32.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-07 13:48:11.000000",
+                "date": "2019-08-11 17:03:32.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-07 13:48:11.000000",
+                "date": "2019-08-11 17:03:32.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>The science and technology minister called the Indian government a \u201cfascist regime\u201d and said another war was not off the table.<\/p>",
+            "content": "<p>The authorities accused protesters of attacking officers with bricks and gasoline bombs, as the protests continued for 10 consecutive weekends.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Pakistan",
-                "Kashmir and Jammu (India)",
-                "International Relations",
-                "India",
-                "Defense and Military Forces",
-                "Hinduism",
-                "Legislatures and Parliaments",
-                "Bharatiya Janata Party"
+                "Hong Kong",
+                "Demonstrations, Protests and Riots",
+                "Politics and Government",
+                "China"
             ],
             "xml": {
-                "title": "Pakistan Vows to Punish India for Kashmir Move",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/asia\/pakistan-kashmir-india.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/07\/world\/asia\/pakistan-kashmir-india.html",
-                "description": "The science and technology minister called the Indian government a \u201cfascist regime\u201d and said another war was not off the table.",
-                "pubDate": "Wed, 07 Aug 2019 13:48:11 +0000",
+                "title": "Hong Kong Convulsed by Protest as Police Fire Tear Gas Into Subway",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/asia\/hong-kong-protest.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/asia\/hong-kong-protest.html",
+                "description": "The authorities accused protesters of attacking officers with bricks and gasoline bombs, as the protests continued for 10 consecutive weekends.",
+                "pubDate": "Sun, 11 Aug 2019 17:03:32 +0000",
                 "category": [
-                    "Pakistan",
-                    "Kashmir and Jammu (India)",
-                    "International Relations",
-                    "India",
-                    "Defense and Military Forces",
-                    "Hinduism",
-                    "Legislatures and Parliaments",
-                    "Bharatiya Janata Party"
+                    "Hong Kong",
+                    "Demonstrations, Protests and Riots",
+                    "Politics and Government",
+                    "China"
                 ]
             },
             "namespaces": {

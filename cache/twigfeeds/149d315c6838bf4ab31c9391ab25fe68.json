@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565189345,
-    "last_checked": 1565189345,
+    "timestamp": 1565580683,
+    "last_checked": 1565580683,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "0dd3d8ca196f43bd9d4e43860717734f851d02ba961625506057865c7d65daac",
-            "title": "Whaley Bridge dam: Evacuated residents can return home",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-derbyshire-49261977",
+            "id": "26f908e2ae448fbe9a863028a18ba4240eb43817663c472bf6debfc978f1bd53",
+            "title": "Law and order: Extra \u00a385m for CPS to tackle violent crime",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49314259",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-07 14:40:28.000000",
+                "date": "2019-08-11 23:15:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-07 14:40:28.000000",
+                "date": "2019-08-11 23:15:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-07 14:40:28.000000",
+                "date": "2019-08-11 23:15:43.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>About 1,500 people were evacuated last week after heavy rain affected Toddbrook Reservoir.<\/p>",
+            "content": "<p>A review into sentencing is also promised as Downing Street continues its focus on law and order.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-derbyshire-49261977",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-derbyshire-49261977",
-                "pubDate": "Wed, 07 Aug 2019 14:40:28 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49314259",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49314259",
+                "pubDate": "Sun, 11 Aug 2019 23:15:43 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "6904d07ab99b7ca28d334d6a5dc46553aef3b0e4eac8f515cf643a16ed4ba48f",
-            "title": "Missing Nora Quoirin: Malaysia police 'rule nothing out' in search",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49264715",
+            "id": "743109609baa1437c9ddf62d7dda5ea2369a1d2df75369ac37c6a7add9f1d892",
+            "title": "High Streets hit as shop vacancy rate worst since 2015",
+            "url": "https:\/\/www.bbc.co.uk\/news\/business-49311298",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-07 14:12:39.000000",
+                "date": "2019-08-11 23:05:32.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-07 14:12:39.000000",
+                "date": "2019-08-11 23:05:32.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-07 14:12:39.000000",
+                "date": "2019-08-11 23:05:32.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Nora Quoirin&#039;s grandfather says her disappearance on holiday in Malaysia is &quot;extremely mysterious&quot;.<\/p>",
+            "content": "<p>Empty shops rise in July, while visitor numbers continue to fall, the latest industry figures show.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49264715",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-london-49264715",
-                "pubDate": "Wed, 07 Aug 2019 14:12:39 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/business-49311298",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49311298",
+                "pubDate": "Sun, 11 Aug 2019 23:05:32 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "029e8fe2d1ea7cf1011c0c65ba74421dc2e7e11e54ffc18339a68308a207ec4e",
-            "title": "Brexit: Food industry seeks no-deal competition waiver",
-            "url": "https:\/\/www.bbc.co.uk\/news\/business-49258852",
+            "id": "46f70419a35ed787b0822f7de2cb8aaabc90a7cc2a77652a8717a89a6f8248fe",
+            "title": "Grouse shooting: Labour calls for review amid habitat concerns",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49315258",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-07 09:21:05.000000",
+                "date": "2019-08-12 01:02:55.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-07 09:21:05.000000",
+                "date": "2019-08-12 01:02:55.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-07 09:21:05.000000",
+                "date": "2019-08-12 01:02:55.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>UK firms urge the government to relax rules to allow them to work together to supply food after Brexit.<\/p>",
+            "content": "<p>Labour raises environmental concerns ahead of the four-month grouse shooting season from Monday.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/business-49258852",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49258852",
-                "pubDate": "Wed, 07 Aug 2019 09:21:05 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49315258",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49315258",
+                "pubDate": "Mon, 12 Aug 2019 01:02:55 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "3566cff38d312a192b4c29c9829a65575bc688dba6befce415661d0f9c0e749a",
-            "title": "Ayia Napa: 'False rape claim' case adjourned after lawyer resigns",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49262995",
+            "id": "668923f2a9bc61fbf2a82fdabfe15ac45dfa6edbb4a9ae81c612458451adb517",
+            "title": "Attempted murder charge over PC run over by own car in Moseley",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-birmingham-49314927",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-07 10:38:20.000000",
+                "date": "2019-08-11 21:29:23.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-07 10:38:20.000000",
+                "date": "2019-08-11 21:29:23.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-07 10:38:20.000000",
+                "date": "2019-08-11 21:29:23.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The lawyer representing a 19-year-old British woman cites a &quot;serious disagreement&quot; with his client.<\/p>",
+            "content": "<p>The traffic officer had been attempting to pull over a suspected car thief in Birmingham.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49262995",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49262995",
-                "pubDate": "Wed, 07 Aug 2019 10:38:20 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-birmingham-49314927",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-birmingham-49314927",
+                "pubDate": "Sun, 11 Aug 2019 21:29:23 GMT"
             },
             "namespaces": []
         }
