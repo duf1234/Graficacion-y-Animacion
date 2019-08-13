@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565622312,
-    "last_checked": 1565622312,
+    "timestamp": 1565714487,
+    "last_checked": 1565714487,
     "amount": 2,
     "items": [
         {
@@ -18,53 +18,57 @@
                 "he",
                 "yi"
             ],
-            "id": "b7cbef367f8e4709ba85cec09f45bdac70e5677a50a4909b6c811c02744b8cba",
-            "title": "Over 150 Flights Canceled as Hong Kong Airport Is Flooded by Protesters",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest-cancellations.html?emc=rss&partner=rss",
-            "author": "Austin Ramzy and Gerry Mullany",
+            "id": "15ff2e3a1bcb06125574d03fa7819ab4a03f96fcaffba4c4b7dbb5f766d95134",
+            "title": "Chaos Grips Hong Kong\u2019s Airport as Police Clash with Protesters",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest.html?emc=rss&partner=rss",
+            "author": "Mike Ives and Ezra Cheung",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 12:27:43.000000",
+                "date": "2019-08-13 16:04:55.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-12 12:27:43.000000",
+                "date": "2019-08-13 16:04:55.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-12 12:27:43.000000",
+                "date": "2019-08-13 16:04:55.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Hong Kong International Airport, one of the world\u2019s busiest, was brought to a near halt by antigovernment demonstrators angered by police violence.<\/p>",
+            "content": "<p>Protesters stopped some travelers from reaching their departure gates, hours after the city\u2019s leader pleaded for order amid escalating unrest.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
                 "Demonstrations, Protests and Riots",
-                "Delays (Transportation)",
-                "Airlines and Airplanes",
                 "Hong Kong",
+                "Hong Kong International Airport",
+                "Police Brutality, Misconduct and Shootings",
+                "Lam, Carrie (1957- )",
+                "Attacks on Police",
                 "Airports",
-                "Stations and Terminals (Passenger)",
-                "Far East, South and Southeast Asia and Pacific Areas"
+                "China",
+                "Cathay Pacific Airways Limited"
             ],
             "xml": {
-                "title": "Over 150 Flights Canceled as Hong Kong Airport Is Flooded by Protesters",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest-cancellations.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest-cancellations.html",
-                "description": "Hong Kong International Airport, one of the world\u2019s busiest, was brought to a near halt by antigovernment demonstrators angered by police violence.",
-                "pubDate": "Mon, 12 Aug 2019 12:27:43 +0000",
+                "title": "Chaos Grips Hong Kong\u2019s Airport as Police Clash with Protesters",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest.html",
+                "description": "Protesters stopped some travelers from reaching their departure gates, hours after the city\u2019s leader pleaded for order amid escalating unrest.",
+                "pubDate": "Tue, 13 Aug 2019 16:04:55 +0000",
                 "category": [
                     "Demonstrations, Protests and Riots",
-                    "Delays (Transportation)",
-                    "Airlines and Airplanes",
                     "Hong Kong",
+                    "Hong Kong International Airport",
+                    "Police Brutality, Misconduct and Shootings",
+                    "Lam, Carrie (1957- )",
+                    "Attacks on Police",
                     "Airports",
-                    "Stations and Terminals (Passenger)",
-                    "Far East, South and Southeast Asia and Pacific Areas"
+                    "China",
+                    "Cathay Pacific Airways Limited"
                 ]
             },
             "namespaces": {
@@ -84,57 +88,55 @@
                 "he",
                 "yi"
             ],
-            "id": "f258e263a5d47c91052f6db66aa14511cacc07b3f3d6848768559a454dd0bb7d",
-            "title": "How YouTube Radicalized Brazil",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/americas\/youtube-brazil.html?emc=rss&partner=rss",
-            "author": "Max Fisher and Amanda Taub",
+            "id": "ab9c3ce16b3fb0d81c9e699a2b7b9054419ccd8c1f168923d17aa0a8fd8a312a",
+            "title": "As Gang Murders Surge, South Africa Sends Army to Cape Town, and the City Cheers",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/13\/world\/africa\/cape-town-crime-military.html?emc=rss&partner=rss",
+            "author": "Kimon de Greef",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 02:30:15.000000",
+                "date": "2019-08-13 14:03:35.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-12 02:30:15.000000",
+                "date": "2019-08-13 14:03:35.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-12 02:30:15.000000",
+                "date": "2019-08-13 14:03:35.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>YouTube built its business on keeping users hooked. This has been a gift to extremist groups. An investigation in the company\u2019s second-biggest market found serious consequences.<\/p>",
+            "content": "<p>Cape Town has become one of the world\u2019s most dangerous cities, and the government has deployed troops to quell the violence. Many residents welcome the soldiers\u2019 presence, but worry about what\u2019s next.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Artificial Intelligence",
-                "Zika Virus",
-                "Fringe Groups and Movements",
-                "Computers and the Internet",
-                "Rumors and Misinformation",
-                "YouTube.com",
-                "Bolsonaro, Jair (1955- )",
-                "Brazil",
-                "The Weekly (TV Program)"
+                "Defense and Military Forces",
+                "United States Defense and Military Forces",
+                "Gangs",
+                "Murders, Attempted Murders and Homicides",
+                "Organized Crime",
+                "Firearms",
+                "Cape Town (South Africa)",
+                "South Africa"
             ],
             "xml": {
-                "title": "How YouTube Radicalized Brazil",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/americas\/youtube-brazil.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/11\/world\/americas\/youtube-brazil.html",
-                "description": "YouTube built its business on keeping users hooked. This has been a gift to extremist groups. An investigation in the company\u2019s second-biggest market found serious consequences.",
-                "pubDate": "Mon, 12 Aug 2019 02:30:15 +0000",
+                "title": "As Gang Murders Surge, South Africa Sends Army to Cape Town, and the City Cheers",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/13\/world\/africa\/cape-town-crime-military.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/13\/world\/africa\/cape-town-crime-military.html",
+                "description": "Cape Town has become one of the world\u2019s most dangerous cities, and the government has deployed troops to quell the violence. Many residents welcome the soldiers\u2019 presence, but worry about what\u2019s next.",
+                "pubDate": "Tue, 13 Aug 2019 14:03:35 +0000",
                 "category": [
-                    "Artificial Intelligence",
-                    "Zika Virus",
-                    "Fringe Groups and Movements",
-                    "Computers and the Internet",
-                    "Rumors and Misinformation",
-                    "YouTube.com",
-                    "Bolsonaro, Jair (1955- )",
-                    "Brazil",
-                    "The Weekly (TV Program)"
+                    "Defense and Military Forces",
+                    "United States Defense and Military Forces",
+                    "Gangs",
+                    "Murders, Attempted Murders and Homicides",
+                    "Organized Crime",
+                    "Firearms",
+                    "Cape Town (South Africa)",
+                    "South Africa"
                 ]
             },
             "namespaces": {

@@ -3,8 +3,8 @@
     "name": "BBC News - UK",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565620420,
-    "last_checked": 1565620420,
+    "timestamp": 1565711015,
+    "last_checked": 1565711015,
     "amount": 4,
     "items": [
         {
@@ -18,27 +18,27 @@
                 "he",
                 "yi"
             ],
-            "id": "f29948a5d6d7791c1779296227869f8294bf451ec65abbdf7b119707468fe4c7",
-            "title": "Gambling companies see huge rise in complaints",
-            "url": "https:\/\/www.bbc.co.uk\/news\/business-49284169",
+            "id": "88d70fc7b6ff9fd466e971936903abab846d556d3d8be802f1b063982535dcb5",
+            "title": "Nora Quoirin: Body found in Malaysia is missing girl",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-england-49330702",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 07:03:24.000000",
+                "date": "2019-08-13 14:50:11.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-12 07:03:24.000000",
+                "date": "2019-08-13 14:50:11.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-12 07:03:24.000000",
+                "date": "2019-08-13 14:50:11.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Complaints about UK betting companies have increased almost 5,000% in the past five years.<\/p>",
+            "content": "<p>Police say Nora Quoirin&#039;s parents have identified a body found in the jungle as their missing daughter.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -46,9 +46,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/business-49284169",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/business-49284169",
-                "pubDate": "Mon, 12 Aug 2019 07:03:24 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-england-49330702",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-england-49330702",
+                "pubDate": "Tue, 13 Aug 2019 14:50:11 GMT"
             },
             "namespaces": []
         },
@@ -63,27 +63,27 @@
                 "he",
                 "yi"
             ],
-            "id": "a8c875da0253d46fd03b04038a261a14a4ef16f7cadf6f9354469ed3d210df63",
-            "title": "Drug crime mapped: Gangs operating away from home cities",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-48343369",
+            "id": "c35bc4b549b8fe36ec2063a44e291783b36a0e1bf04ff5ab273fbccd596c2859",
+            "title": "UK 'first in line' for US trade deal, says John Bolton",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49325620",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 06:13:26.000000",
+                "date": "2019-08-13 15:28:59.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-12 06:13:26.000000",
+                "date": "2019-08-13 15:28:59.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-12 06:13:26.000000",
+                "date": "2019-08-13 15:28:59.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Recorded drug crime is increasing in many small towns and villages even as it falls significantly in city centres, analysis by the BBC finds.<\/p>",
+            "content": "<p>The US would consider negotiating deals on &quot;sector-by-sector&quot; basis, says a senior Trump aide.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -91,9 +91,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-48343369",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-48343369",
-                "pubDate": "Mon, 12 Aug 2019 06:13:26 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49325620",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49325620",
+                "pubDate": "Tue, 13 Aug 2019 15:28:59 GMT"
             },
             "namespaces": []
         },
@@ -108,27 +108,27 @@
                 "he",
                 "yi"
             ],
-            "id": "2ae6f2f1917ce2743e3cde571a0834567324a041d9dd12fa1a3d5727be2f0134",
-            "title": "Meghan has made Prince Harry less popular, says Farage",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49317656",
+            "id": "0dc048a907809103a712f8310a13c5ba009f832dd36269131b60f7f6f3c34764",
+            "title": "Brexit: Legal bid to stop Westminster shutdown goes to court",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49320773",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 12:00:43.000000",
+                "date": "2019-08-13 12:22:38.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-12 12:00:43.000000",
+                "date": "2019-08-13 12:22:38.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-12 12:00:43.000000",
+                "date": "2019-08-13 12:22:38.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>The Brexit Party leader said Prince Harry&#039;s popularity has &quot;fallen off a cliff&quot; since he met Meghan.<\/p>",
+            "content": "<p>A group of politicians want the courts to rule out suspending parliament to push through a no-deal Brexit.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -136,9 +136,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49317656",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49317656",
-                "pubDate": "Mon, 12 Aug 2019 12:00:43 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49320773",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-scotland-scotland-politics-49320773",
+                "pubDate": "Tue, 13 Aug 2019 12:22:38 GMT"
             },
             "namespaces": []
         },
@@ -153,27 +153,27 @@
                 "he",
                 "yi"
             ],
-            "id": "2d8afb48e9c2fc11adebe43f05309de2dcddae5dde190590aeae7b5b36f4ac41",
-            "title": "Brexit: Caroline Lucas criticised over all-female cabinet plan",
-            "url": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49321430",
+            "id": "5dd53fb2de4945d90f12f4d9d8633d59fa1738d0d13062c96a11ec1e1148f321",
+            "title": "Hands-free phone ban for drivers 'should be considered'",
+            "url": "https:\/\/www.bbc.co.uk\/news\/uk-49320473",
             "author": "",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-12 14:06:50.000000",
+                "date": "2019-08-13 15:39:20.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "publishedDate": {
-                "date": "2019-08-12 14:06:50.000000",
+                "date": "2019-08-13 15:39:20.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
             "updatedDate": {
-                "date": "2019-08-12 14:06:50.000000",
+                "date": "2019-08-13 15:39:20.000000",
                 "timezone_type": 2,
                 "timezone": "GMT"
             },
-            "content": "<p>Caroline Lucas defends her plan aimed at stopping a no-deal Brexit, saying women are less tribal.<\/p>",
+            "content": "<p>A committee of MPs says there is a &quot;misleading impression&quot; the devices are completely safe.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-gb",
@@ -181,9 +181,9 @@
             "xml": {
                 "title": {},
                 "description": {},
-                "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49321430",
-                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-politics-49321430",
-                "pubDate": "Mon, 12 Aug 2019 14:06:50 GMT"
+                "link": "https:\/\/www.bbc.co.uk\/news\/uk-49320473",
+                "guid": "https:\/\/www.bbc.co.uk\/news\/uk-49320473",
+                "pubDate": "Tue, 13 Aug 2019 15:39:20 GMT"
             },
             "namespaces": []
         }
