@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1562001801,
-    'checksum' => 'a3a65d8ef8c8b3cf19e0313304fc70b0',
+    'timestamp' => 1565802471,
+    'checksum' => 'd86d78622996732c1098641d7e0fd425',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -39,7 +39,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1562001801
+                'modified' => 1565802449
             ],
             'themes/agency' => [
                 'file' => 'user/config/themes/agency.yaml',
@@ -223,7 +223,7 @@ return [
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1560698689
+                'modified' => 1565802446
             ],
             'plugins/image-captions' => [
                 'file' => 'user/plugins/image-captions/image-captions.yaml',
@@ -235,7 +235,7 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1561869437
+                'modified' => 1565802445
             ],
             'plugins/shortcode-core' => [
                 'file' => 'user/plugins/shortcode-core/shortcode-core.yaml',
@@ -255,7 +255,7 @@ return [
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1561869436
+                'modified' => 1565802449
             ],
             'plugins/grava11y' => [
                 'file' => 'user/plugins/grava11y/grava11y.yaml',

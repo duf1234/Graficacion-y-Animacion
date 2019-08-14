@@ -3,8 +3,8 @@
     "name": "NY Times",
     "etag": "",
     "last_modified": "",
-    "timestamp": 1565714487,
-    "last_checked": 1565714487,
+    "timestamp": 1565809199,
+    "last_checked": 1565809199,
     "amount": 2,
     "items": [
         {
@@ -18,57 +18,69 @@
                 "he",
                 "yi"
             ],
-            "id": "15ff2e3a1bcb06125574d03fa7819ab4a03f96fcaffba4c4b7dbb5f766d95134",
-            "title": "Chaos Grips Hong Kong\u2019s Airport as Police Clash with Protesters",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest.html?emc=rss&partner=rss",
-            "author": "Mike Ives and Ezra Cheung",
+            "id": "7c103d90e64387079b9adbfa8778a76d08d713a58e0dd5daa966baad6879c9df",
+            "title": "\u2018Retake Hong Kong\u2019: A Movement, a Slogan and an Identity Crisis",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/14\/world\/asia\/hong-kong-protests-identity-china-edward-leung.html?emc=rss&partner=rss",
+            "author": "Andrew Higgins",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-13 16:04:55.000000",
+                "date": "2019-08-14 18:44:20.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-13 16:04:55.000000",
+                "date": "2019-08-14 18:44:20.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-13 16:04:55.000000",
+                "date": "2019-08-14 18:44:20.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Protesters stopped some travelers from reaching their departure gates, hours after the city\u2019s leader pleaded for order amid escalating unrest.<\/p>",
+            "content": "<p>Hong Kong\u2019s Beijing-backed government is struggling not only for control of the streets but over what the city means as a place and political entity.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Demonstrations, Protests and Riots",
                 "Hong Kong",
-                "Hong Kong International Airport",
+                "Demonstrations, Protests and Riots",
+                "Leung, Edward (1991- )",
+                "Political Prisoners",
+                "Communist Party of China",
+                "Propaganda",
                 "Police Brutality, Misconduct and Shootings",
-                "Lam, Carrie (1957- )",
-                "Attacks on Police",
-                "Airports",
-                "China",
-                "Cathay Pacific Airways Limited"
+                "Olympic Games (2012)",
+                "Hong Kong Indigenous",
+                "University of Hong Kong",
+                "Xinhua",
+                "Chu Hoi-dick, Eddie",
+                "Xi Jinping",
+                "Lee, Bruce",
+                "China"
             ],
             "xml": {
-                "title": "Chaos Grips Hong Kong\u2019s Airport as Police Clash with Protesters",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/12\/world\/asia\/hong-kong-airport-protest.html",
-                "description": "Protesters stopped some travelers from reaching their departure gates, hours after the city\u2019s leader pleaded for order amid escalating unrest.",
-                "pubDate": "Tue, 13 Aug 2019 16:04:55 +0000",
+                "title": "\u2018Retake Hong Kong\u2019: A Movement, a Slogan and an Identity Crisis",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/14\/world\/asia\/hong-kong-protests-identity-china-edward-leung.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/14\/world\/asia\/hong-kong-protests-identity-china-edward-leung.html",
+                "description": "Hong Kong\u2019s Beijing-backed government is struggling not only for control of the streets but over what the city means as a place and political entity.",
+                "pubDate": "Wed, 14 Aug 2019 18:44:20 +0000",
                 "category": [
-                    "Demonstrations, Protests and Riots",
                     "Hong Kong",
-                    "Hong Kong International Airport",
+                    "Demonstrations, Protests and Riots",
+                    "Leung, Edward (1991- )",
+                    "Political Prisoners",
+                    "Communist Party of China",
+                    "Propaganda",
                     "Police Brutality, Misconduct and Shootings",
-                    "Lam, Carrie (1957- )",
-                    "Attacks on Police",
-                    "Airports",
-                    "China",
-                    "Cathay Pacific Airways Limited"
+                    "Olympic Games (2012)",
+                    "Hong Kong Indigenous",
+                    "University of Hong Kong",
+                    "Xinhua",
+                    "Chu Hoi-dick, Eddie",
+                    "Xi Jinping",
+                    "Lee, Bruce",
+                    "China"
                 ]
             },
             "namespaces": {
@@ -88,55 +100,47 @@
                 "he",
                 "yi"
             ],
-            "id": "ab9c3ce16b3fb0d81c9e699a2b7b9054419ccd8c1f168923d17aa0a8fd8a312a",
-            "title": "As Gang Murders Surge, South Africa Sends Army to Cape Town, and the City Cheers",
-            "url": "https:\/\/www.nytimes.com\/2019\/08\/13\/world\/africa\/cape-town-crime-military.html?emc=rss&partner=rss",
-            "author": "Kimon de Greef",
+            "id": "ef0c0dd218e620d55ac632f214fd67bfe0a316d66b35378dedec7402fbb432ab",
+            "title": "New Zealand Officials Admit Letting Christchurch Suspect Send Hateful Letter",
+            "url": "https:\/\/www.nytimes.com\/2019\/08\/14\/world\/asia\/new-zealand-mosque-shootings-letter.html?emc=rss&partner=rss",
+            "author": "Charlotte Graham-McLay",
             "authorUrl": "",
             "date": {
-                "date": "2019-08-13 14:03:35.000000",
+                "date": "2019-08-14 12:13:25.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "publishedDate": {
-                "date": "2019-08-13 14:03:35.000000",
+                "date": "2019-08-14 12:13:25.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
             "updatedDate": {
-                "date": "2019-08-13 14:03:35.000000",
+                "date": "2019-08-14 12:13:25.000000",
                 "timezone_type": 1,
                 "timezone": "+00:00"
             },
-            "content": "<p>Cape Town has become one of the world\u2019s most dangerous cities, and the government has deployed troops to quell the violence. Many residents welcome the soldiers\u2019 presence, but worry about what\u2019s next.<\/p>",
+            "content": "<p>The lapse was particularly embarrassing because Prime Minister Jacinda Ardern and other leaders said they would do everything they could to deny the suspect any further platform.<\/p>",
             "enclosureUrl": "",
             "enclosureType": "",
             "language": "en-us",
             "categories": [
-                "Defense and Military Forces",
-                "United States Defense and Military Forces",
-                "Gangs",
-                "Murders, Attempted Murders and Homicides",
-                "Organized Crime",
-                "Firearms",
-                "Cape Town (South Africa)",
-                "South Africa"
+                "Christchurch, New Zealand, Attack (March 2019)",
+                "Prisons and Prisoners",
+                "Tarrant, Brenton Harrison",
+                "Ardern, Jacinda"
             ],
             "xml": {
-                "title": "As Gang Murders Surge, South Africa Sends Army to Cape Town, and the City Cheers",
-                "link": "https:\/\/www.nytimes.com\/2019\/08\/13\/world\/africa\/cape-town-crime-military.html?emc=rss&partner=rss",
-                "guid": "https:\/\/www.nytimes.com\/2019\/08\/13\/world\/africa\/cape-town-crime-military.html",
-                "description": "Cape Town has become one of the world\u2019s most dangerous cities, and the government has deployed troops to quell the violence. Many residents welcome the soldiers\u2019 presence, but worry about what\u2019s next.",
-                "pubDate": "Tue, 13 Aug 2019 14:03:35 +0000",
+                "title": "New Zealand Officials Admit Letting Christchurch Suspect Send Hateful Letter",
+                "link": "https:\/\/www.nytimes.com\/2019\/08\/14\/world\/asia\/new-zealand-mosque-shootings-letter.html?emc=rss&partner=rss",
+                "guid": "https:\/\/www.nytimes.com\/2019\/08\/14\/world\/asia\/new-zealand-mosque-shootings-letter.html",
+                "description": "The lapse was particularly embarrassing because Prime Minister Jacinda Ardern and other leaders said they would do everything they could to deny the suspect any further platform.",
+                "pubDate": "Wed, 14 Aug 2019 12:13:25 +0000",
                 "category": [
-                    "Defense and Military Forces",
-                    "United States Defense and Military Forces",
-                    "Gangs",
-                    "Murders, Attempted Murders and Homicides",
-                    "Organized Crime",
-                    "Firearms",
-                    "Cape Town (South Africa)",
-                    "South Africa"
+                    "Christchurch, New Zealand, Attack (March 2019)",
+                    "Prisons and Prisoners",
+                    "Tarrant, Brenton Harrison",
+                    "Ardern, Jacinda"
                 ]
             },
             "namespaces": {

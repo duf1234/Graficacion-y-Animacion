@@ -3,7 +3,6 @@ title: ELEVATOR
 date: '10:57 24-06-2019'
 ---
 
-<!DOCTYPE html>
 <html>
 <body background="http://dissenyaweb.com/blog/diseno_web/wp-content/uploads/Leaf-1920x1200-1024x640.jpg">
 
