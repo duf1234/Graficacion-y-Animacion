@@ -21,6 +21,21 @@ feed:
 </head>
 <body>
 
+<h1>Documentacion del proyecto final</h1>
+<p>A continuacion les vamos a detallar todos los pasos en los que consiste nuestro proyecto.</p>
+<p>El proyecto cuenta con dos packes y una carpeta donde tendremos los modulos que se necesitan para la ejecucion del proyecto.</p>
+<h3>Packes public</h3>
+<p>En el packes que se llama public tenemos la parte de visualizaciòn como el icono de inicio de seciòn, el index.html donde colocque la parte visible del programa porque contiene las llamadas a las otras clases, tambien tenemos el archivo .json que es nuestra base de datos en un archivo plano.</p>
+<h3>packes src</h3>
+<p>En este packes tendremos la parte de organizaciòn en otras plabras la parte del programador. tambien en este packete tengo varias capas para dividir el texto en pequeñas seciones.</p>
+<h3>Componentes</h3>
+<p>carpeta componentes aqui tengo las clases para los componentes y las clases principales de nuestro programa tambien tenemos los marcadores, el login, la clase arjs q contiene lo realidad aumentada tambien el webcant.js esta clase coloque todas las llamadas a la base de datos que sera la informacion que se observa en el marcador.</p>
+<h3>Config</h3>
+<p>En esta carpeta tenemos la conesiòn a la base de datos.</p>
+<h3>Comtent y Footer</h3>
+<p>A qui tenemos los css para el modelo la posicion y los fectos del programa </p>
+	
+<br>
 <h2>Documentaciòn de Proyecto final Arquitectura</h2>
 <p> Se necesita desarrollar una aplicación la cual permita visualizar los distintos horarios de los laboratorios mediante el uso de <br>realidad aumentada por medio de distintos marcadores. </p>
 <h3>Firebase Database</h3>

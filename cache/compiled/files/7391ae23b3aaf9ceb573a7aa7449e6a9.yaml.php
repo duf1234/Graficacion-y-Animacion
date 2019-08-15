@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/grav/user/plugins/admin/languages/en.yaml',
-    'modified' => 1565802449,
+    'modified' => 1565888902,
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'This is a Beta release! Use this in production at your own risk...',
@@ -828,7 +828,9 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
             'DEBUGGER_PROVIDER' => 'Debugger Provider',
             'DEBUGGER_PROVIDER_HELP' => 'Default is PHP Debug Bar, but Clockwork browser extension provides for a less intrusive approach',
             'DEBUGGER_DEBUGBAR' => 'PHP Debug Bar',
-            'DEBUGGER_CLOCKWORK' => 'Clockwork Browser Extension'
+            'DEBUGGER_CLOCKWORK' => 'Clockwork Browser Extension',
+            'SHOW_SENSITIVE' => 'Show Sensitive Data',
+            'SHOW_SENSITIVE_HELP' => 'Clockwork Provider ONLY: Censor potentially sensitive information (POST parameters, cookies, files, configuration and most array/object data in log messages)'
         ]
     ]
 ];

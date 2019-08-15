@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1565802474,
-    'checksum' => '372d4358842a95086d3fd812b175d618',
+    'timestamp' => 1565889603,
+    'checksum' => 'a0879144c1e781a7531d94e133962e39',
     'files' => [
         'system/languages' => [
             'ar' => [
@@ -201,7 +201,7 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1565802445
+                'modified' => 1565888899
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/languages.yaml',
@@ -263,167 +263,167 @@ return [
         'user/plugins/admin/languages' => [
             'ar' => [
                 'file' => 'user/plugins/admin/languages/ar.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'bg' => [
                 'file' => 'user/plugins/admin/languages/bg.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'br' => [
                 'file' => 'user/plugins/admin/languages/br.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'ca' => [
                 'file' => 'user/plugins/admin/languages/ca.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'da' => [
                 'file' => 'user/plugins/admin/languages/da.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'el' => [
                 'file' => 'user/plugins/admin/languages/el.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'et' => [
                 'file' => 'user/plugins/admin/languages/et.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'eu' => [
                 'file' => 'user/plugins/admin/languages/eu.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'fa' => [
                 'file' => 'user/plugins/admin/languages/fa.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'he' => [
                 'file' => 'user/plugins/admin/languages/he.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'id' => [
                 'file' => 'user/plugins/admin/languages/id.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'ko' => [
                 'file' => 'user/plugins/admin/languages/ko.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'ro' => [
                 'file' => 'user/plugins/admin/languages/ro.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'sk' => [
                 'file' => 'user/plugins/admin/languages/sk.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'sl' => [
                 'file' => 'user/plugins/admin/languages/sl.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'sr' => [
                 'file' => 'user/plugins/admin/languages/sr.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'th' => [
                 'file' => 'user/plugins/admin/languages/th.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'vi' => [
                 'file' => 'user/plugins/admin/languages/vi.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ],
             'zh-tw' => [
                 'file' => 'user/plugins/admin/languages/zh-tw.yaml',
-                'modified' => 1565802449
+                'modified' => 1565888902
             ]
         ]
     ],
@@ -7460,7 +7460,9 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'DEBUGGER_PROVIDER' => 'Debugger Provider',
                 'DEBUGGER_PROVIDER_HELP' => 'Default is PHP Debug Bar, but Clockwork browser extension provides for a less intrusive approach',
                 'DEBUGGER_DEBUGBAR' => 'PHP Debug Bar',
-                'DEBUGGER_CLOCKWORK' => 'Clockwork Browser Extension'
+                'DEBUGGER_CLOCKWORK' => 'Clockwork Browser Extension',
+                'SHOW_SENSITIVE' => 'Show Sensitive Data',
+                'SHOW_SENSITIVE_HELP' => 'Clockwork Provider ONLY: Censor potentially sensitive information (POST parameters, cookies, files, configuration and most array/object data in log messages)'
             ],
             'PLUGIN_GANALYTICS' => [
                 '_YES' => 'Yes',
@@ -8148,8 +8150,8 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'RESOLUTION_MIN' => 'The {{attr}} was less than the minimum of {{min}}px <br />',
                 'RESOLUTION_MAX' => 'The {{attr}} was more than the maximum of {{max}}px <br />',
                 'DESTINATION_NOT_SPECIFIED' => 'Destination not specified',
-                'INVALID_MIME_TYPE' => 'The MIME type %s for the file %s is not an accepted.',
-                'INVALID_FILE_EXTENSION' => 'The File Extension for the file %s is not an accepted.'
+                'INVALID_MIME_TYPE' => 'The MIME type %s for the file %s is not accepted.',
+                'INVALID_FILE_EXTENSION' => 'The File Extension for the file %s is not accepted.'
             ],
             'PLUGIN_PROBLEMS' => [
                 'BUILTIN_CSS' => 'Use built in CSS',
@@ -10432,6 +10434,71 @@ asukoht: `%2$s`
                 'DEFAULTS' => 'Lehenetsitakoak',
                 'SITE_TITLE' => 'Gunearen Izenburua',
                 'SITE_TITLE_PLACEHOLDER' => 'Gune osoko izenburua'
+            ],
+            'PLUGIN_FORM' => [
+                'NOT_VALIDATED' => 'Formularioa ez da baliozkotu. Beharrezkoa den eremu bat edo gehiago falta dira.',
+                'NONCE_NOT_VALIDATED' => 'Arazo bat gertatu da. Egiaztatu sartutako informazioa eta bidali berriro formularioa.',
+                'FILES' => 'Fitxategi Kargatzea',
+                'FORM_ALREADY_SUBMITTED' => 'Formulario hau dagoeneko bidali da.',
+                'ALLOW_MULTIPLE' => 'Onartu fitxategi bat baino gehiago',
+                'ALLOW_MULTIPLE_HELP' => 'Fitxategi bat baino gehiago kargatzeko aukera ematen du.',
+                'DESTINATION' => 'Helmuga',
+                'DESTINATION_HELP' => 'Fitxategiak non kokatu behar diren',
+                'ACCEPT' => 'Baimendutako MIME motak',
+                'ACCEPT_HELP' => 'Kargatu ahal diren MIME moten zerrenda',
+                'ERROR_VALIDATING_CAPTCHA' => 'Errorea reCAPTCHA egiaztatzerakoan',
+                'DATA_SUMMARY' => 'Hona hemen idatzi diguzunaren laburpena:',
+                'NO_FORM_DATA' => 'Formularioaren datuak ez daude eskuragarri',
+                'RECAPTCHA' => 'reCAPTCHA',
+                'RECAPTCHA_VERSION' => 'Bertsioa',
+                'RECAPTCHA_VERSION_V2_CHECKBOX' => 'v2 - Checkbox',
+                'RECAPTCHA_VERSION_V2_INVISIBLE' => 'v2 - Invisible',
+                'RECAPTCHA_VERSION_V3_LATEST' => 'v3 - Latest',
+                'RECAPTCHA_THEME' => 'Itxura',
+                'RECAPTCHA_THEME_LIGHT' => 'Itxura Argia',
+                'RECAPTCHA_THEME_DARK' => 'Itxura Iluna',
+                'RECAPTCHA_SITE_KEY' => 'Gunearen gakoa',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Gehiago jakiteko bisitatu https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY' => 'Gako Sekretua',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Gehiago jakiteko bisitatu https://developers.google.com/recaptcha',
+                'GENERAL' => 'Orokorra',
+                'USE_BUILT_IN_CSS' => 'Erabili CSS integratua',
+                'USE_INLINE_CSS' => 'Erabili CSS lerroan',
+                'FILEUPLOAD_PREVENT_SELF' => 'Ezin da "%s" erabili orrialdeetatik kanpo.',
+                'FILEUPLOAD_UNABLE_TO_UPLOAD' => '%s: %s fitxategia ezin da kargatu',
+                'FILEUPLOAD_UNABLE_TO_MOVE' => '%s fitxategia ezin da mugitu "%s"-ra',
+                'DROPZONE_CANCEL_UPLOAD' => 'Utzi kargatzea',
+                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Ziur al zaude kargatzea bertan behera utzi nahi duzula?',
+                'DROPZONE_DEFAULT_MESSAGE' => 'Utzi zure fitxategiak hemen edo <strong> klik egin eremu honetan </strong>',
+                'DROPZONE_FALLBACK_MESSAGE' => 'Zure nabigatzaileak ez du jasaten fitxategiak arrastratzea.',
+                'DROPZONE_FALLBACK_TEXT' => 'Mesedez erabili beheko formularioa zure fitxategiak kargatzeko.',
+                'DROPZONE_FILE_TOO_BIG' => 'Fitxategiak asko pisatzen du ({{filesize}}MiB). Gehienezko tamaina: {{maxFilesize}}MiB.',
+                'DROPZONE_INVALID_FILE_TYPE' => 'Ezin dituzu mota honetako fitxategiak kargatu.',
+                'DROPZONE_MAX_FILES_EXCEEDED' => 'Ezin dituzu fitxategi gehiago kargatu.',
+                'DROPZONE_REMOVE_FILE' => 'Fitxategia ezabatu',
+                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Zihur al zaude fitxategia ezabatu nahi duzula?',
+                'DROPZONE_RESPONSE_ERROR' => 'Zerbitzariak{{statusCode}} kodearekin erantzun du.',
+                'YES' => 'Bai',
+                'NO' => 'Ez',
+                'REFRESH_PREVENTION' => 'Eguneratze prebentzioa',
+                'REFRESH_PREVENTION_HELP' => 'Erabili formularioaren ID bakarra, zihurtatzeko ez dela berriro prozesatuko nabigatzailea eguneratzerakoan.',
+                'LIMIT' => 'Muga',
+                'LIMIT_HELP' => 'Baimendutako gehienezko fitxategi kopurua eremu bakoitzeko (beharrezkoak dira fitxategi anitz)',
+                'FILESIZE' => 'Gehienezko fitxategi tamaina',
+                'FILESIZE_HELP' => 'Onartutako gehienezko fitxategi tamaina (MB-tan), 0 = Sistemaren lehenetsia',
+                'AVOID_OVERWRITING' => 'Gainean idaztea ekidin',
+                'AVOID_OVERWRITING_HELP' => 'Izen bereko fitxategiak gainean idaztea ekidin. Data aurrizkia gehituko da',
+                'RANDOM_NAME' => 'Ausazko izena',
+                'RANDOM_NAME_HELP' => 'Sortu ausazko 15 karakteredun kate luze bat, izen bezala, kargatutako fitxategientzat',
+                'CLIENT_SIDE_VALIDATION' => 'Bezeroaren aldeko baliozkotzea',
+                'CLIENT_SIDE_VALIDATION_HELP' => 'Lehenetsita, formularioek HTML5 bezeroaren aldeko baliozkotzea erabiliko dute lehenengo defentsa moduan.',
+                'INLINE_ERRORS' => 'Erroreak lerroan',
+                'INLINE_ERRORS_HELP' => 'Erabilgarria den \'bezeroaren aldeko baliozkotzea\' desgaituta dago, testuinguruko formulario erroreak erakusten ditu',
+                'RESOLUTION_MIN' => '{{Attr}} atributua {{min}}px gutxienekoa baino txikiagoa izan zen <br />',
+                'RESOLUTION_MAX' => '{{Attr}} atributua {{max}}px gehienekoa baino handiagoa izan da <br />',
+                'DESTINATION_NOT_SPECIFIED' => 'Helmuga ez da zehaztu',
+                'INVALID_MIME_TYPE' => '%s fitxategiaren %s MIME mota ez da onartzen.',
+                'INVALID_FILE_EXTENSION' => '%s fitxategiaren luzapena ez da onartzen.'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '--- title: %1$s --- # Errorea: Baliogabeko Frontmatter Bidea: `%2$s` **%3$s** ``` %4$s ```',
@@ -12732,7 +12799,28 @@ L\'**authentification à deux facteurs** est activée sur ce compte. Veuillez ut
                 'DROPZONE_MAX_FILES_EXCEEDED' => 'Vous ne pouvez plus télécharger de fichiers.',
                 'DROPZONE_REMOVE_FILE' => 'Supprimer le fichier',
                 'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Êtes-vous sûr de vouloir supprimer ce fichier ?',
-                'DROPZONE_RESPONSE_ERROR' => 'Le serveur a répondu avec le code {{statusCode}}.'
+                'DROPZONE_RESPONSE_ERROR' => 'Le serveur a répondu avec le code {{statusCode}}.',
+                'YES' => 'Oui',
+                'NO' => 'Non',
+                'REFRESH_PREVENTION' => 'Prévenir la redondance',
+                'REFRESH_PREVENTION_HELP' => 'Utilise l’identifiant unique du formulaire pour s’assurer qu’il n’est pas pris deux fois en compte si l’on recharge le navigateur.',
+                'LIMIT' => 'Limite',
+                'LIMIT_HELP' => 'Nombre maximum de fichiers par champ (quand multiple)',
+                'FILESIZE' => 'Poids du fichier max.',
+                'FILESIZE_HELP' => 'Poids maximum autorisé pour le fichier (en MB), 0 = utiliser la valeur du système par défaut',
+                'AVOID_OVERWRITING' => 'Éviter la réécriture',
+                'AVOID_OVERWRITING_HELP' => 'Évite qu’un fichier avec le même nom soit écrasé. Le nom sera préfixé de la date.',
+                'RANDOM_NAME' => 'Nom aléatoire',
+                'RANDOM_NAME_HELP' => 'Génère une chaîne de caractère aléatoire de quinze caractères pour le nom du fichier uploadé.',
+                'CLIENT_SIDE_VALIDATION' => 'Validation côté client',
+                'CLIENT_SIDE_VALIDATION_HELP' => 'Par défaut, les formulaires utiliseront la validation en HTML5 avant tout autre validation.',
+                'INLINE_ERRORS' => 'Erreurs en ligne',
+                'INLINE_ERRORS_HELP' => 'Utile avec « Validation côté client » désactivé ; affiche des erreurs contextuelles en ligne.',
+                'RESOLUTION_MIN' => '{{attr}} est inférieur au minimum de {{min}}px <br />',
+                'RESOLUTION_MAX' => '{{attr}} est supérieur au minimum de  {{max}}px <br />',
+                'DESTINATION_NOT_SPECIFIED' => 'La destination n’est pas indiquée.',
+                'INVALID_MIME_TYPE' => 'Le type MIME %s pour le fichier %s n’est pas accepté.',
+                'INVALID_FILE_EXTENSION' => 'L’extension pour le fichier %s n’est pas acceptée.'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
@@ -20609,43 +20697,61 @@ Masz na tym koncie włączone **2FA**. Użyj aplikacji od **2FA** i wprowadź ak
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Formularz został odrzucony. Jedno lub więcej pól wymaga wypełnienia.',
-                'NONCE_NOT_VALIDATED' => 'Ups, pojawił się problem. Proszę sprawdź czy wszystkie pola zostały wypełnione i wyślij formularz ponownie.',
+                'NONCE_NOT_VALIDATED' => 'Ups, pojawił się problem. Proszę sprawdzić, czy wszystkie pola zostały wypełnione i wysłać formularz ponownie.',
                 'FILES' => 'Plik przesłany.',
                 'FORM_ALREADY_SUBMITTED' => 'Ten formularz został już wysłany.',
                 'ALLOW_MULTIPLE' => 'Zezwól na więcej niż jeden plik.',
                 'ALLOW_MULTIPLE_HELP' => 'Zezwól na przesłanie więcej niż jednego pliku.',
-                'DESTINATION' => 'Przeznaczenie.',
+                'DESTINATION' => 'Cel',
                 'DESTINATION_HELP' => 'Lokalizacja przesłanego pliku.',
-                'ACCEPT' => 'Zezwól na typ MIME.',
-                'ACCEPT_HELP' => 'Lista wspieranych do przesłania typów MIME.',
-                'ERROR_VALIDATING_CAPTCHA' => 'Błąd walidacji Captcha.',
+                'ACCEPT' => 'Dozwolone typy MIME',
+                'ACCEPT_HELP' => 'Lista dozwolonych do przesłania typów MIME',
+                'ERROR_VALIDATING_CAPTCHA' => 'Błąd walidacji Captcha',
                 'DATA_SUMMARY' => 'Oto podsumowanie informacji, które do nas napisałeś:',
                 'NO_FORM_DATA' => 'Brak dostępnych danych formularza',
                 'RECAPTCHA' => 'ReCaptcha',
                 'RECAPTCHA_SITE_KEY' => 'Klucz strony',
-                'RECAPTCHA_SITE_KEY_HELP' => 'Aby uzyskać więcej informacji odwiedź https://developers.google.com/recaptcha',
+                'RECAPTCHA_SITE_KEY_HELP' => 'Aby uzyskać więcej informacji, odwiedź https://developers.google.com/recaptcha',
                 'RECAPTCHA_SECRET_KEY' => 'Tajny klucz',
-                'RECAPTCHA_SECRET_KEY_HELP' => 'Aby uzyskać więcej informacji odwiedź https://developers.google.com/recaptcha',
+                'RECAPTCHA_SECRET_KEY_HELP' => 'Aby uzyskać więcej informacji, odwiedź https://developers.google.com/recaptcha',
                 'GENERAL' => 'Ogólne',
-                'USE_BUILT_IN_CSS' => 'Użyj wbudowanych styli CSS',
+                'USE_BUILT_IN_CSS' => 'Użyj wbudowanych stylów CSS',
+                'USE_INLINE_CSS' => 'Użyj stylów inline CSS',
                 'FILEUPLOAD_PREVENT_SELF' => 'Nie można użyć "%s" poza stronami.',
-                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Nie można przesłać plików %s: %s',
-                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Nie można przenieść plików z %s do "%s"',
+                'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Nie można przesłać pliku %s: %s',
+                'FILEUPLOAD_UNABLE_TO_MOVE' => 'Nie można przenieść pliku %s do "%s"',
                 'DROPZONE_CANCEL_UPLOAD' => 'Anuluj przesyłanie',
-                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Czy na pewno chcesz anulować przesyłanie?',
+                'DROPZONE_CANCEL_UPLOAD_CONFIRMATION' => 'Czy na pewno chcesz anulować to przesyłanie?',
                 'DROPZONE_DEFAULT_MESSAGE' => 'Upuść pliki tutaj lub <strong>kliknij w tym obszarze</strong>',
-                'DROPZONE_FALLBACK_MESSAGE' => 'Twoja przelądarka nie obsługują funkcji przeciągnij i upuść.',
+                'DROPZONE_FALLBACK_MESSAGE' => 'Twoja przeglądarka nie wspiera przesyłania plików metodą przeciągnij i upuść.',
                 'DROPZONE_FALLBACK_TEXT' => 'Proszę użyć zapasowego formularza do przesyłania plików znajdującego się poniżej.',
-                'DROPZONE_FILE_TOO_BIG' => 'Plik jest zbyt duży ({{filesize}}MiB). Maksymalna wielkość pliku to: {{maxFilesize}}MiB.',
-                'DROPZONE_INVALID_FILE_TYPE' => 'Nie można przesłać pliku. Format nie jest obsługiwany.',
-                'DROPZONE_MAX_FILES_EXCEEDED' => 'Nie można przesłać więcej plików.',
+                'DROPZONE_FILE_TOO_BIG' => 'Plik jest zbyt duży ({{filesize}}MiB). Maksymalna wielkość pliku: {{maxFilesize}}MiB.',
+                'DROPZONE_INVALID_FILE_TYPE' => 'Nie możesz przesłać pliku w tym formacie.',
+                'DROPZONE_MAX_FILES_EXCEEDED' => 'Nie możesz już przesłać więcej plików.',
                 'DROPZONE_REMOVE_FILE' => 'Usuń plik',
-                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Czy na pewno chcesz usunąć plik?',
-                'DROPZONE_RESPONSE_ERROR' => 'Status serwera {{statusCode}}.',
+                'DROPZONE_REMOVE_FILE_CONFIRMATION' => 'Czy na pewno chcesz usunąć ten plik?',
+                'DROPZONE_RESPONSE_ERROR' => 'Serwer odpowiedział kodem {{statusCode}}.',
                 'YES' => 'Tak',
                 'NO' => 'Nie',
                 'REFRESH_PREVENTION' => 'Zapobiegaj odświeżaniu',
-                'REFRESH_PREVENTION_HELP' => 'Użyj unikatowego identyfikatora ID , aby upewnić się, że przeglądarka nie przetworzy formularza ponownie.'
+                'REFRESH_PREVENTION_HELP' => 'Użyj unikatowego identyfikatora ID, aby upewnić się, że przeglądarka nie przetworzy formularza ponownie.',
+                'LIMIT' => 'Limit',
+                'LIMIT_HELP' => 'Maksymalna ilość dozwolonych plików na pole (wymagana liczba mnoga)',
+                'FILESIZE' => 'Maksymalny rozmiar pliku',
+                'FILESIZE_HELP' => 'Maksymalny dozwolony rozmiar pliku (w MB), 0 = użyj ustawień systemowych',
+                'AVOID_OVERWRITING' => 'Unikaj nadpisywania',
+                'AVOID_OVERWRITING_HELP' => 'Unikaj nadpisywania plików o tej samej nazwie. Zostanie dodany prefiks z datą',
+                'RANDOM_NAME' => 'Losowa nazwa',
+                'RANDOM_NAME_HELP' => 'Wygeneruj losowy ciąg 15 znaków jako nazwę dla przesyłanych plików',
+                'CLIENT_SIDE_VALIDATION' => 'Weryfikacja po stronie klienta',
+                'CLIENT_SIDE_VALIDATION_HELP' => 'Domyślnie formularze użyją weryfikacji HTML5 po stronie klienta jako pierwszej linii obrony',
+                'INLINE_ERRORS' => 'Błędy inline',
+                'INLINE_ERRORS_HELP' => 'Przydatne przy wyłączonej weryfikacji po stronie klienta, wyświetla kontekstowe błędy formularza',
+                'RESOLUTION_MIN' => '{{attr}} była mniejsza od minimum wynoszącego {{min}}px <br />',
+                'RESOLUTION_MAX' => '{{attr}} była większa od maksimum wynoszącego {{max}}px <br />',
+                'DESTINATION_NOT_SPECIFIED' => 'Cel nie został określony',
+                'INVALID_MIME_TYPE' => 'Typ MIME %s dla pliku %s nie jest dozwolony.',
+                'INVALID_FILE_EXTENSION' => 'Rozszerzenie pliku %s nie jest dozwolone.'
             ],
             'GRAV' => [
                 'FRONTMATTER_ERROR_PAGE' => '---
